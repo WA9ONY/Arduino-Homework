@@ -8,15 +8,15 @@
 </p>
 
 # Arduino Microcontrollers Homework Index
-+ Project 1: <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
-
++ <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
++ Lesson 1: <A HREF="README.md#L1">Getting Started for Absolute Beginners</A>
 
 
 <A NAME="P1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> - <A HREF="https://www.youtube.com/channel/UCq4BzKarrZdc_Tcvf8AhlTA">YouTube Homework</A> - <A HREF="#L1">--&gt;</A></P>  
     
-# Project 1 YouTube Channel: Paul McWhorter Arduino Tutorials
+# YouTube Channel: Paul McWhorter Arduino Tutorials
 
 Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [25 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
 + Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [22 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
