@@ -102,8 +102,76 @@ void loop() {
 }
 
 ```
+
+Microsoft Bing Pompt: Can you create Arduino code?
+
+## Bing
+Yes, I can help you with that. What kind of code would you like me to create? 😊
+
 ---
-Homework YouTube videos as of 1/28/2024
+Microsoft Bing Pompt: Blink the LED on the Arduino UNO R4 at 1 Hz.
+
+
+Sure, I can help you with that. Here's the code to blink the LED on the Arduino UNO R4 at 1 Hz:
+
+```c
+// Define the pin number for the LED
+const int ledPin = 13;
+
+void setup() {
+  // Set the LED pin as an output
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Turn the LED on
+  digitalWrite(ledPin, HIGH);
+  // Wait for 500ms
+  delay(500);
+  // Turn the LED off
+  digitalWrite(ledPin, LOW);
+  // Wait for 500ms
+  delay(500);
+}
+```
+
+This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
+
+Source: Conversation with Bing, 1/29/2024
+(1) Blinking LED's at specific hz frequency - Arduino Forum. https://forum.arduino.cc/t/blinking-leds-at-specific-hz-frequency/641848.
+(2) Blinking at 1HZ - Programming Questions - Arduino Forum. https://forum.arduino.cc/t/blinking-at-1hz/623570.
+(3) How to blink led in arduino uno board?. https://forum.arduino.cc/t/how-to-blink-led-in-arduino-uno-board/452657.
+(4) arduino uno - How to blink a series of LED alternately only one at a .... https://arduino.stackexchange.com/questions/15817/how-to-blink-a-series-of-led-alternately-only-one-at-a-time.
+(5) Blink - Arduino. https://www.arduino.cc/en/Tutorial/Blink.
+(6) undefined. https://www.arduino.cc/en/tutorial/BlinkWithoutDelay.
+(7) undefined. https://werner.rothschopf.net/microcontroller/202202_tools_led_en.htm.
+---
+
+## Bing
+Sure, I can help you with that. Here's the code to blink the LED on the Arduino UNO R4 at 1 Hz:
+
+// Define the pin number for the LED
+const int ledPin = 13;
+
+void setup() {
+  // Set the LED pin as an output
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Turn the LED on
+  digitalWrite(ledPin, HIGH);
+  // Wait for 500ms
+  delay(500);
+  // Turn the LED off
+  digitalWrite(ledPin, LOW);
+  // Wait for 500ms
+  delay(500);
+}
+
+This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
+
+## Homework YouTube videos as of 1/28/2024
 + https://www.youtube.com/watch?v=3WfvOFglzKg
 + https://youtu.be/SlDcf9h6jrA?si=XuGxh4ILnD6S26lS
   + https://www.youtube.com/@lorisrobots
