@@ -20,7 +20,8 @@
 
 Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [25 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
 + Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
-  + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://amzn.to/3SciApZ)
+  + SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi  [Amazon](https://amzn.to/3SciApZ)
+  + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://www.sunfounder.com/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
 ---
 I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create code, etc. 
