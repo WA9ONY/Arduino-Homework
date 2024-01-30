@@ -44,6 +44,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
 
+## OpenAI ChatGPT-4
 Homework assignment is to determine the minimum delay time to see the blinking LED. 
 + [OpenAI](https://openai.com/) ChatGPT-4 [Persistence of vision](https://chat.openai.com/share/65a410fb-a6f3-4570-8d73-f6a093e37d2c) conversation.
   + Persistence of vision frequency is 24 to 30 Hz. Period is 41.6 ms to 33.3 ms.  Delay is 20.8 ms to 16.7 ms.
@@ -55,7 +56,7 @@ Blinking LED persistence of vision howework video.
   + You are a teacher. Today you're teaching your class about the Arduino Uno R3 microcontroller. You're going to teach your students to create their first program called Blink to turn on and off the LED at 1 Hz. Please give the sketch code and the details how to use the Arduino development environment version 1.8 to run this sketch.
 ChatGPT
 
-## Lession 1: Arduino blinking LED script by ChatGPT.
+### ChatGPT Arduino blinking LED script
 
 ```c++
 
@@ -77,7 +78,7 @@ void loop() {
 + [OpenAI](https://openai.com/) ChatGPT-4 prompt:
   + The next program is to vary the frequency of the blink from 1 Hertz to 100 Hertz in steps of 1 Hertz. The duration of a step should be 3 seconds. At the beginning of each step, please print out the frequency of the blink. Please create this sketch.
 ---
-## Lession 1: Arduino blinking LED persistence of vision script by ChatGPT.
+### ChatGPT Arduino blinking LED persistence of vision script
 
 ```c++
 
@@ -107,13 +108,13 @@ void loop() {
 
 ```
 
-## Bing
-Microsoft Bing Pompt: Can you create Arduino code?
+## Microsoft Bing
+Bing Pompt: Can you create Arduino code?
 
 Yes, I can help you with that. What kind of code would you like me to create? 😊
 
 ---
-Microsoft Bing Pompt: Blink the LED on the Arduino UNO R4 at 1 Hz.
+Bing Pompt: Blink the LED on the Arduino UNO R4 at 1 Hz.
 
 Sure, I can help you with that. Here's the code to blink the LED on the Arduino UNO R4 at 1 Hz:
 
