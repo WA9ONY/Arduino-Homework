@@ -26,7 +26,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
 ---
 ## Arduino Programming with ChatBots
 
-I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create code, etc. 
+I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
