@@ -24,12 +24,15 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://www.sunfounder.com/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
 ---
+## Arduino Programming with ChatBots
+
 I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create code, etc. 
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
     + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
     + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
+    + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
   + Google [Brad](https://bard.google.com/chat)
   + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
 
