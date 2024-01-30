@@ -28,7 +28,8 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
-    + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing). 
+    + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
+    + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
   + Google [Brad](https://bard.google.com/chat)
   + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
 
