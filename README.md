@@ -38,11 +38,15 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 <A NAME="L1"></A>
 <HR>
-<P align="center"><A HREF="#P1">&lt;--</A> - <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A>  - <A HREF="#INDEX">Index</A> - <A HREF="#L2">--&gt;</A></P>  
+<P align="center"><A HREF="#P1">&lt;--</A> - <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> - <A HREF="#L2">--&gt;</A></P>  
     
 # [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq): Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners
 
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
+
++ [Presentation PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/Lession1_8.pdf
++ [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
+
 
 ## OpenAI ChatGPT-4
 Homework assignment is to determine the minimum delay time to see the blinking LED. 
