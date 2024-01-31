@@ -44,7 +44,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
 
-+ [Presentation PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/Lession1_8.pdf
++ [Presentation PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/Lession1_8.pdf)
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
 
 
