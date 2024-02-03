@@ -176,7 +176,7 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
     
 # [LESSON 2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS): Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard<BR>[LESSON 2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV): Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
 
-These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
+These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS) & [2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV)
 
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
