@@ -188,10 +188,10 @@ These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0
 <p align="center">
 <img width="513" height="423" src="/Images/LED_BUILTIN.png">  
 </p>
-    
+ 
 ## D13 8 ma Current Limit
-D13 is a digital IO pin that is connected to
-+ P102 (pin 46) on the R7FA4M1AB3CFM#AA0
+D13 is a digital IO pin is connected to
++ P102 (pin 46) on the R7FA4M1AB3CFM#AA0, see above image for P102 connections.
 + R52 100 k ohm to ground
 + Q3 2N7002KT1G which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
 Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
