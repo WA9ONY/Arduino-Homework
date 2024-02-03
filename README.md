@@ -185,6 +185,16 @@ These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
 
+<p align="center">
+<img width="513" height="423" src="/Images/LED_BUILTIN.png">  
+</p>
+    
+## D13 8 ma Current Limit
+D13 is a digital IO pin that is connected to
++ P102 (pin 46) on the R7FA4M1AB3CFM#AA0
++ R52 100 k ohm to ground
++ Q3 2N7002KT1G which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
+Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
 
 ## Reference
 + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
