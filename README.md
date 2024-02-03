@@ -183,4 +183,5 @@ These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0
 
 
 ## Reference
++ [Data Sheets](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
 + [CALCULATING CURRENT LIMITING RESISTOR VALUES FOR LED CIRCUITS](https://www.nutsvolts.com/magazine/article/calculating_current?utm_medium=email&_hsmi=291598816&_hsenc=p2ANqtz-9aHaklRbccA0d18JD4sKV3WNoQ73mAiOSLMd5NGEa0ch2Io4sbD3lgyRk4HeRCGj1I9wwrMDIFZ-_e9sxAnSiDMVE6Tw&utm_content=291598816&utm_source=hs_email) 
