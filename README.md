@@ -11,7 +11,7 @@
 + <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
 + Lesson 1: <A HREF="README.md#L1">Getting Started for Absolute Beginners</A>
 + LESSON 2: <A HREF="README.md#L2">Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard</A>
-+ LESSON 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
+  + LESSON 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
 
 <A NAME="P1"></A>
 <HR>
