@@ -31,6 +31,16 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
+      + Pros
+        + Creates code for Arduino and Python for Raspberry Pi.
+        + Voice prompts work very nice on iPad.
+        + History of conversations that can be continued.
+        + Be able to create images.
+        + Responses are not copyrighted.
+        + Using ChatGPT for over a year.
+      + Cons
+        + $20/month
+        + Cannot create illustrations 
     + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
     + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
     + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
