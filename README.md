@@ -47,6 +47,8 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
   + Google [Brad](https://bard.google.com/chat)
   + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
 
+
+---
 <A NAME="L1"></A>
 <HR>
 <P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
@@ -167,7 +169,7 @@ Source: Conversation with Bing, 1/29/2024
 (7) undefined. https://werner.rothschopf.net/microcontroller/202202_tools_led_en.htm.
 ```
 ---
-
+---
 
 This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
 
