@@ -169,7 +169,6 @@ Source: Conversation with Bing, 1/29/2024
 (7) undefined. https://werner.rothschopf.net/microcontroller/202202_tools_led_en.htm.
 ```
 ---
----
 
 This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
 
@@ -181,7 +180,7 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
 + https://youtu.be/Oa2eWjEvMB8
 + https://youtu.be/CPVfMoP-3k4
   
-
+---
 <A NAME="L2"></A>
 <HR>
 <P align="center"><A HREF="#L1">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
