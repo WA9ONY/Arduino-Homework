@@ -185,10 +185,6 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
 <A NAME="L2"></A>
 <HR>
 <P align="center"><A HREF="#L1">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
-
-<p align="center">
-<img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
-</p>
     
 # [LESSON 2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS): Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
 + [LESSON 2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV): Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
@@ -204,7 +200,7 @@ Extended Projects
   + All the Morese code characters.
 + Straight key mode to practice sending Morse code.
 
-Homework Problems
+Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
 
@@ -218,6 +214,12 @@ D13 is a digital IO pin is connected to
 + R52 100 k ohm to ground
 + Q3 [2N7002KT1G](https://www.onsemi.com/pdf/datasheet/2n7002k-d.pdf) [MOSFET](https://en.wikipedia.org/wiki/MOSFET) which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
 Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
+
+---
+
+<p align="center">
+<img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
+</p>
 
 ## Reference
 + Arduino® UNO R4 WiFi [store](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
