@@ -211,16 +211,25 @@ Chat GPT was used to create Arduino UNO code and to research Morse code.
 + [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
 
 ---
-<p align="center">
-<img width="513" height="423" src="/Images/LED_BUILTIN.png">  
-</p>
- 
 ## D13 8 ma Current Limit
+<p align="center">
+<img width="495" height="71" src="/Images/UNOR4D13P102.png">  
+</p>
+D13 is the yellow built in LED.  D13 is P102
+
+<p align="center">
+<img width="495" height="359" src="/Images/UNOr4WiFiP102.png">  
+</p>
+P102 is pin 46 of the microcontroller.
+
+<p align="center">
+<img width="830" height="423" src="/Images/LED_BUILTIN.png">  
+</p>
 D13 is a digital IO pin is connected to
 + P102 (pin 46) on the R7FA4M1AB3CFM#AA0, see above image for P102 connections.
-+ R52 100 k ohm to ground
++ R52 100 k ohm to ground, $52 is a pull down resistor for the gate of the Q3 MOSFET.
 + Q3 [2N7002KT1G](https://www.onsemi.com/pdf/datasheet/2n7002k-d.pdf) [MOSFET](https://en.wikipedia.org/wiki/MOSFET) which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
-Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
+Therefore, the current to light the LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 microcontroller and is not a part of the D13 8 ma current limit.
 ---
 <p align="center">
 <img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
