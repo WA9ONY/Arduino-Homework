@@ -12,6 +12,7 @@
 + Lesson 1: <A HREF="README.md#L1">Getting Started for Absolute Beginners</A>
 + LESSON 2: <A HREF="README.md#L2">Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard</A>
   + LESSON 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
++ LESSON 3: <A HREF="README.md#L3>Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -220,3 +221,19 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 + [Programming](https://docs.arduino.cc/programming/)
 + [Learn](https://docs.arduino.cc/learn/)
 + 
+
+
+---
+<A NAME="L3"></A>
+<HR>
+<P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
+
+<p align="center">
+<img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
+</p>
+    
+# [LESSON 2](https://youtu.be/0SENIWPdPhQ?si=weEF3eopwnePmu9E): Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
+
+Homework
++ Build four LEDs with 100 kOhm resistors.
++ Flash all four LEDs on and off at once.
