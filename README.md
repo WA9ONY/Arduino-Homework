@@ -213,17 +213,21 @@ Chat GPT was used to create Arduino UNO code and to research Morse code.
 ---
 ## D13 8 ma Current Limit
 <p align="center">
-<img width="495" height="71" src="/Images/UNOR4D13P102.png">  
+<img width="1042" height="128" src="/Images/D13current.png">  
 </p>
-D13 is the yellow built in LED.  D13 is P102
 
 <p align="center">
-<img width="495" height="359" src="/Images/UNOr4WiFiP102.png">  
+<img width="495" height="71" src="/Images/UNOR4D13P102.png">  
+</p>
+D13 is connected to the yellow built in LED and is also called P102.
+
+<p align="center">
+<img width="830" height="359" src="/Images/UNOr4WiFiP102.png">  
 </p>
 P102 is pin 46 of the microcontroller.
 
 <p align="center">
-<img width="830" height="423" src="/Images/LED_BUILTIN.png">  
+<img width="513" height="423" src="/Images/LED_BUILTIN.png">  
 </p>
 D13 is a digital IO pin is connected to
 + P102 (pin 46) on the R7FA4M1AB3CFM#AA0, see above image for P102 connections.
