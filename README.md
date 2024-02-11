@@ -237,10 +237,10 @@ Chat GPT was used to create Arduino UNO code and to research Morse code.
 <img width="513" height="423" src="/Images/LED_BUILTIN.png">  
 </p>
 
-D13 is a digital IO pin is connected to
+D13 is a digital I/O pin that is connected to
   + P102 (pin 46) on the R7FA4M1AB3CFM#AA0, see above image for P102 connections.
-  + R52 100 k ohm to ground, $52 is a pull down resistor for the gate of the Q3 MOSFET.
-  + Q3 [2N7002KT1G](https://www.onsemi.com/pdf/datasheet/2n7002k-d.pdf) [MOSFET](https://en.wikipedia.org/wiki/MOSFET) which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
+  + R52 100 k ohm to ground, R52 is a pull down resistor for the gate of the Q3 MOSFET.
+  + Q3 [2N7002KT1G](https://www.onsemi.com/pdf/datasheet/2n7002k-d.pdf) [MOSFET](https://en.wikipedia.org/wiki/MOSFET) which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, the LED_BUILTIN.
 Therefore, the current to light the LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 microcontroller and is not a part of the D13 8 ma current limit.
 ---
 <p align="center">
