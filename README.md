@@ -227,10 +227,6 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 <A NAME="L3"></A>
 <HR>
 <P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
-
-<p align="center">
-<img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
-</p>
     
 # [LESSON 3](https://youtu.be/0SENIWPdPhQ?si=weEF3eopwnePmu9E): Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
 
