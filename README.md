@@ -203,6 +203,12 @@ Extended Projects
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
+
+---
+## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
+Chat GPT was used to create Arduino UNO code and to research Morse code.
++ [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
+
 ---
 <p align="center">
 <img width="513" height="423" src="/Images/LED_BUILTIN.png">  
@@ -218,10 +224,6 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 <p align="center">
 <img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
 </p>
-
-## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
-Chat GPT was used to create Arduino UNO code and to research Morse code.
-+ [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
 
 ## Reference
 + Arduino® UNO R4 WiFi [store](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
