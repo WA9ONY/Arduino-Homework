@@ -161,7 +161,7 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
 
 ```
 Source: Conversation with Bing, 1/29/2024
-(1) Blinking LED's at specific hz frequency - Arduino Forum. https://forum.arduino.cc/t/blinking-leds-at-specific-hz-frequency/641848.
+(1) Blinking LED's at specific hz frequency - Arduino Forum. https://forum.arduino.cc/t/blinking-leds-at-specific-hz-frequency/641848./Images/UNOr4PinOut.png
 (2) Blinking at 1HZ - Programming Questions - Arduino Forum. https://forum.arduino.cc/t/blinking-at-1hz/623570.
 (3) How to blink led in arduino uno board?. https://forum.arduino.cc/t/how-to-blink-led-in-arduino-uno-board/452657.
 (4) arduino uno - How to blink a series of LED alternately only one at a .... https://arduino.stackexchange.com/questions/15817/how-to-blink-a-series-of-led-alternately-only-one-at-a-time.
@@ -238,13 +238,10 @@ Homework
 
 ---
 ## Reference
-+ [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
-+ [Hardware UNO R4 WiFi](https://docs.arduino.cc/hardware/uno-r4-wifi/)
-+ [Renesas Electronics RA4M1](https://www.mouser.com/new/renesas/renesas-ra4m1-mcu/)
-+ [Renesas RA4M1 Group](https://www.mouser.com/datasheet/2/698/r01ds0355ej0100-ra4m1-1696703.pdf)
-+ [Data Sheets](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
-+ [GitHub Arduino, docs-conten](https://github.com/arduino/docs-content)
-+ [Arduino IDE](https://docs.arduino.cc/software/ide/)
++ Data Sheets [directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
+  + [Pin outs](/Images/UNOr4PinOut.png)
+  + Arduino UNO R4 WiFi [Product Reference Manual](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-datasheet.pdf)
+  + Arduino UNO R4 WiFi [Schematics](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-schematics.pdf)
 + Arduino [Programming](https://docs.arduino.cc/programming/)
 + [CALCULATING CURRENT LIMITING RESISTOR VALUES FOR LED CIRCUITS](https://www.nutsvolts.com/magazine/article/calculating_current?utm_medium=email&_hsmi=291598816&_hsenc=p2ANqtz-9aHaklRbccA0d18JD4sKV3WNoQ73mAiOSLMd5NGEa0ch2Io4sbD3lgyRk4HeRCGj1I9wwrMDIFZ-_e9sxAnSiDMVE6Tw&utm_content=291598816&utm_source=hs_email)
 
