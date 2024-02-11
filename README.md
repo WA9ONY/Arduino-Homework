@@ -195,6 +195,16 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
 
 These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS) & [2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV)
 
+Homework Problems
++ Build one LEDs with 100 kOhm resistor.
++ Blink SOS repeatly.
+
+Extended Projects
++ Morse code generator to practice receiving Morse code.
+  + All the Morese code characters.
++ Straight key mode to practice sending Morse code.
+
+Homework Problems
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
 
@@ -223,8 +233,8 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 + [Arduino IDE](https://docs.arduino.cc/software/ide/)
 + [Programming](https://docs.arduino.cc/programming/)
 + Arduino [Learn](https://docs.arduino.cc/learn/)
-  
 
+  
 ---
 <A NAME="L3"></A>
 <HR>
@@ -236,12 +246,4 @@ Homework
 + Build four LEDs with 100 kOhm resistors.
 + Flash all four LEDs on and off at once.
 
----
-## Reference
-+ Data Sheets [directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
-  + [Pin outs](/Images/UNOr4PinOut.png)
-  + Arduino UNO R4 WiFi [Product Reference Manual](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-datasheet.pdf)
-  + Arduino UNO R4 WiFi [Schematics](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-schematics.pdf)
-+ Arduino [Programming](https://docs.arduino.cc/programming/)
-+ [CALCULATING CURRENT LIMITING RESISTOR VALUES FOR LED CIRCUITS](https://www.nutsvolts.com/magazine/article/calculating_current?utm_medium=email&_hsmi=291598816&_hsenc=p2ANqtz-9aHaklRbccA0d18JD4sKV3WNoQ73mAiOSLMd5NGEa0ch2Io4sbD3lgyRk4HeRCGj1I9wwrMDIFZ-_e9sxAnSiDMVE6Tw&utm_content=291598816&utm_source=hs_email)
 
