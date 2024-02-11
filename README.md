@@ -210,9 +210,10 @@ D13 is a digital IO pin is connected to
 Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
 
 ## Reference
-+ [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
-+ [Hardware UNO R4 WiFi](https://docs.arduino.cc/hardware/uno-r4-wifi/)
++ Arduino® UNO R4 WiFi [store](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
++ UNO R4 WiFi [Hardware](https://docs.arduino.cc/hardware/uno-r4-wifi/)
 + Data Sheets [directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
+  + [Pin outs](/Images/UNOr4PinOut.png)
   + Arduino UNO R4 WiFi [Product Reference Manual](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-datasheet.pdf)
   + Arduino UNO R4 WiFi [Schematics](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-schematics.pdf)
 + [Renesas Electronics RA4M1](https://www.mouser.com/new/renesas/renesas-ra4m1-mcu/)
