@@ -8,11 +8,11 @@
 </p>
 
 # Arduino Microcontrollers Homework Index
-+ <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
-+ Lesson 1: <A HREF="README.md#L1">Getting Started for Absolute Beginners</A>
-+ Lesson 2: <A HREF="README.md#L2">Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard</A>
-  + Lesson 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
-+ Lesson 3: <A HREF="README.md#L3">Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino</A>
++ YouTube Channel: Paul McWhorter Arduino <A HREF="README.md#P1">Tutorials</A>
++ <A HREF="README.md#L1">Lesson 1</A>: Getting Started for Absolute Beginners
++ <A HREF="README.md#L2">Lesson 2</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
+  + <A HREF="README.md#L2">Lesson 2S</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
++ <A HREF="README.md#L3">Lesson 3</A>: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
 
 <A NAME="P1"></A>
 <HR>
@@ -215,17 +215,17 @@ Chat GPT was used to create Arduino UNO code and to research Morse code.
 <p align="center">
 <img width="1042" height="128" src="/Images/D13current.png">  
 </p>
-
+&nbsp;
 <p align="center">
 <img width="495" height="71" src="/Images/UNOR4D13P102.png">  
 </p>
 D13 is connected to the yellow built in LED and is also called P102.
-
+&nbsp;
 <p align="center">
 <img width="830" height="359" src="/Images/UNOr4WiFiP102.png">  
 </p>
 P102 is pin 46 of the microcontroller.
-
+&nbsp;
 <p align="center">
 <img width="513" height="423" src="/Images/LED_BUILTIN.png">  
 </p>
