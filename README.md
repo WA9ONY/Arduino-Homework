@@ -253,7 +253,8 @@ ___
 + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)
 + [morsecode.world](https://morsecode.world/)
   + [Timing](https://morsecode.world/international/timing.html)
-+ []()  
++ ChatGPT
+  + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)  
 ---
 <A NAME="L3"></A>
 <HR>
