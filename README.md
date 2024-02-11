@@ -207,6 +207,7 @@ Homework Solutions
 ---
 ## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
 Chat GPT was used to create Arduino UNO code and to research Morse code.
++ [Arduino Morse Code Sketch](https://chat.openai.com/share/333d4852-defc-414d-89a0-495fb687b5ab)
 + [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
 
 ---
