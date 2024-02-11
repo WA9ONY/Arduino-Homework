@@ -211,10 +211,11 @@ Chat GPT was used to create Arduino UNO code and to research Morse code.
 + [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
 
 ---
-## D13 8 ma Current Limit
+## Digital I/O D13 8 ma Current Limit
 <p align="center">
 <img width="1042" height="128" src="/Images/D13current.png">  
 </p>
+
 + Digital I/O 8 ma current limit.
 
 
