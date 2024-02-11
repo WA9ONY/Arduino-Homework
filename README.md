@@ -203,7 +203,7 @@ Extended Projects
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
-
+---
 <p align="center">
 <img width="513" height="423" src="/Images/LED_BUILTIN.png">  
 </p>
@@ -214,9 +214,7 @@ D13 is a digital IO pin is connected to
 + R52 100 k ohm to ground
 + Q3 [2N7002KT1G](https://www.onsemi.com/pdf/datasheet/2n7002k-d.pdf) [MOSFET](https://en.wikipedia.org/wiki/MOSFET) which turns on the DL4 yellow LED (SCK LED) KPT-1608YC, LED_BUILTIN
 Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 and is not affect the D13 8 ma limit.
-
 ---
-
 <p align="center">
 <img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
 </p>
