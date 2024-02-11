@@ -232,7 +232,7 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 <img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
 </p>
     
-# [LESSON 2](https://youtu.be/0SENIWPdPhQ?si=weEF3eopwnePmu9E): Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
+# [LESSON 3](https://youtu.be/0SENIWPdPhQ?si=weEF3eopwnePmu9E): Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
 
 Homework
 + Build four LEDs with 100 kOhm resistors.
