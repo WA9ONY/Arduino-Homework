@@ -221,7 +221,7 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 
 ## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
 Chat GPT was used to create Arduino UNO code and to research Morse code.
-
++ [Holding a Morse Code Key](https://chat.openai.com/share/1ba785ef-626d-4853-87b4-7baf590f8a0c)
 
 ## Reference
 + Arduino® UNO R4 WiFi [store](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
