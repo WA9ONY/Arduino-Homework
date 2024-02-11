@@ -247,7 +247,7 @@ ___
   + [Morse code abbreviations](https://en.wikipedia.org/wiki/Morse_code_abbreviations)
 + [ARRL Morse code](https://www.arrl.org/learning-morse-code)
 + [The Art and Skill of Radio-Telegraphy](http://www.tasrt.ca/TASRT/index.html)
-  + [Book PDF 211 pages](http://www.tasrt.ca/TASRTVersions/TASRT.pdf) by William G. Pierpont NØHFF
+  + The Art and Skill of Radio-Telegraphy [PDF 211 pages](http://www.tasrt.ca/TASRTVersions/TASRT.pdf) by William G. Pierpont NØHFF
 + [SKCC](https://www.skccgroup.com/) Straight Key Century Club
 + [Prosigns, Procedural Signals & Abbreviations](https://www.skccgroup.com/member_services/beginners_corner/)
 + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)
