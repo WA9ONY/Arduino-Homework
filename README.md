@@ -10,9 +10,9 @@
 # Arduino Microcontrollers Homework Index
 + <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
 + Lesson 1: <A HREF="README.md#L1">Getting Started for Absolute Beginners</A>
-+ LESSON 2: <A HREF="README.md#L2">Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard</A>
-  + LESSON 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
-+ LESSON 3: <A HREF="README.md#L3>Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino</A>
++ Lesson 2: <A HREF="README.md#L2">Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard</A>
+  + Lesson 2S: <A HREF="README.md#L2">Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED</A>
++ Lesson 3: <A HREF="README.md#L3">Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino</A>
 
 <A NAME="P1"></A>
 <HR>
