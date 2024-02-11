@@ -212,16 +212,17 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 ## Reference
 + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
 + [Hardware UNO R4 WiFi](https://docs.arduino.cc/hardware/uno-r4-wifi/)
++ Data Sheets [directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
+  + Arduino UNO R4 WiFi [Product Reference Manual](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-datasheet.pdf)
+  + Arduino UNO R4 WiFi [Schematics](https://github.com/WA9ONY/Arduino-Homework/blob/main/DataSheets/ABX00087-schematics.pdf)
 + [Renesas Electronics RA4M1](https://www.mouser.com/new/renesas/renesas-ra4m1-mcu/)
 + [Renesas RA4M1 Group](https://www.mouser.com/datasheet/2/698/r01ds0355ej0100-ra4m1-1696703.pdf)
-+ [Data Sheets](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
 + [GitHub Arduino, docs-conten](https://github.com/arduino/docs-content)
 + [CALCULATING CURRENT LIMITING RESISTOR VALUES FOR LED CIRCUITS](https://www.nutsvolts.com/magazine/article/calculating_current?utm_medium=email&_hsmi=291598816&_hsenc=p2ANqtz-9aHaklRbccA0d18JD4sKV3WNoQ73mAiOSLMd5NGEa0ch2Io4sbD3lgyRk4HeRCGj1I9wwrMDIFZ-_e9sxAnSiDMVE6Tw&utm_content=291598816&utm_source=hs_email)
 + [Arduino IDE](https://docs.arduino.cc/software/ide/)
 + [Programming](https://docs.arduino.cc/programming/)
-+ [Learn](https://docs.arduino.cc/learn/)
-+ 
-
++ Arduino [Learn](https://docs.arduino.cc/learn/)
+  
 
 ---
 <A NAME="L3"></A>
@@ -233,3 +234,16 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 Homework
 + Build four LEDs with 100 kOhm resistors.
 + Flash all four LEDs on and off at once.
+
+---
+## Reference
++ [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
++ [Hardware UNO R4 WiFi](https://docs.arduino.cc/hardware/uno-r4-wifi/)
++ [Renesas Electronics RA4M1](https://www.mouser.com/new/renesas/renesas-ra4m1-mcu/)
++ [Renesas RA4M1 Group](https://www.mouser.com/datasheet/2/698/r01ds0355ej0100-ra4m1-1696703.pdf)
++ [Data Sheets](https://github.com/WA9ONY/Arduino-Homework/tree/main/DataSheets)
++ [GitHub Arduino, docs-conten](https://github.com/arduino/docs-content)
++ [Arduino IDE](https://docs.arduino.cc/software/ide/)
++ Arduino [Programming](https://docs.arduino.cc/programming/)
++ [CALCULATING CURRENT LIMITING RESISTOR VALUES FOR LED CIRCUITS](https://www.nutsvolts.com/magazine/article/calculating_current?utm_medium=email&_hsmi=291598816&_hsenc=p2ANqtz-9aHaklRbccA0d18JD4sKV3WNoQ73mAiOSLMd5NGEa0ch2Io4sbD3lgyRk4HeRCGj1I9wwrMDIFZ-_e9sxAnSiDMVE6Tw&utm_content=291598816&utm_source=hs_email)
+
