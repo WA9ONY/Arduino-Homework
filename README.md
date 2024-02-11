@@ -219,6 +219,10 @@ Therefore, the current for LED_BUILTIN does not come from the R7FA4M1AB3CFM#AA0 
 <img width="1063" height="763" src="/Images/UNOr4PinOut.png">  
 </p>
 
+## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
+Chat GPT was used to create Arduino UNO code and to research Morse code.
+
+
 ## Reference
 + Arduino® UNO R4 WiFi [store](https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us)
 + UNO R4 WiFi [Hardware](https://docs.arduino.cc/hardware/uno-r4-wifi/)
