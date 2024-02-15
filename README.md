@@ -276,7 +276,6 @@ ___
 + ChatGPT
   + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)  
 
-
 ---
 ## Homework YouTube videos as of 2/15/2024
  + https://youtu.be/EnlBt_Yjmf0
@@ -296,11 +295,6 @@ ___
  + https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
  + https://www.youtube.com/watch?v=2QLwzy4QgBk
 ---
-+ https://youtu.be/EnlBt_Yjmf0?si=vtt4KUnkiyv2UGrt
-+ https://youtu.be/UJ8DchnDCxY?si=GbThkO833Ii4pINc
-+ https://youtube.com/shorts/AhZ8x1j8Tfw?si=K18RkReg73NN1h23
-+ https://youtube.com/shorts/fhoe0dIXIsY?si=HIYYhfiHftl2Y6Ax
-+ https://youtu.be/EnlBt_Yjmf0?si=WNJZUnEc8jmydUN9
 
 
 ---
@@ -314,4 +308,12 @@ Homework
 + Build four LEDs with 100 kOhm resistors.
 + Flash all four LEDs on and off at once.
 
-
+## Homework YouTube videos as of 2/15/2024
+ + https://www.youtube.com/watch?v=5Hga4VW21-A
+ + https://youtu.be/my-gTQwPixs
+ + https://youtu.be/PadTOT-Rofk?si=lR5cJ14n7kL9SfOe
+ + https://youtu.be/rMOXRHSLhMw
+ + https://youtu.be/ME4sJa0fj2E
+ + https://youtube.com/shorts/7sQmzckePI8?si=L_qiq_Ed_27Z-wtt
+ + https://www.youtube.com/shorts/1_IcMGs8V6k
+ + https://youtu.be/dX9JXY0G-NQ
