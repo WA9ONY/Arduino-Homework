@@ -279,41 +279,23 @@ ___
 
 ---
 ## Homework YouTube videos as of 2/15/2024
-+ https://youtu.be/EnlBt_Yjmf0
-+ https://youtu.be/UJ8DchnDCxY
-+ https://youtube.com/shorts/AhZ8x1j8Tfw?si=1ZEYItpyzMKOPEM2
-+ https://youtube.com/shorts/_9gDINwu7eA
-+ https://youtube.com/shorts/fhoe0dIXIsY?si=QrvArYzw517_-em5
-+ https://www.youtube.com/watch?v=eNOXOovuPm4
-+ https://youtu.be/PFt0DDX04b0
-+ https://youtube.com/shorts/PxY1gbxqpY8?si=2kxX-kUz_5WU9544
-+ https://www.youtube.com/watch?v=bkMNRoFDhac
-+ https://youtu.be/PC5sMWTvncc
-+ https://youtu.be/NcU9C6JPkco
-+ https://www.youtube.com/watch?v=i0yaXoJLCcs.
-+ https://youtu.be/4b1INCYvl4g
-+ https://youtu.be/bbsrYb7I80k
-+ https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
-
-+ https://www.youtube.com/watch?v=2QLwzy4QgBk
+ + https://youtu.be/EnlBt_Yjmf0
+ + https://youtu.be/UJ8DchnDCxY
+ + https://youtube.com/shorts/AhZ8x1j8Tfw?si=1ZEYItpyzMKOPEM2
+ + https://youtube.com/shorts/_9gDINwu7eA
+ + https://youtube.com/shorts/fhoe0dIXIsY?si=QrvArYzw517_-em5
+ + https://www.youtube.com/watch?v=eNOXOovuPm4
+ + https://youtu.be/PFt0DDX04b0
+ + https://youtube.com/shorts/PxY1gbxqpY8?si=2kxX-kUz_5WU9544
+ + https://www.youtube.com/watch?v=bkMNRoFDhac
+ + https://youtu.be/PC5sMWTvncc
+ + https://youtu.be/NcU9C6JPkco
+ + https://www.youtube.com/watch?v=i0yaXoJLCcs.
+ + https://youtu.be/4b1INCYvl4g
+ + https://youtu.be/bbsrYb7I80k
+ + https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
+ + https://www.youtube.com/watch?v=2QLwzy4QgBk
 ---
-+ https://youtu.be/EnlBt_Yjmf0
-+ https://youtu.be/UJ8DchnDCxY
-+ https://youtube.com/shorts/AhZ8x1j8Tfw?si=1ZEYItpyzMKOPEM2
-+ https://youtube.com/shorts/_9gDINwu7eA
-+ https://youtube.com/shorts/fhoe0dIXIsY?si=QrvArYzw517_-em5
-+ https://www.youtube.com/watch?v=eNOXOovuPm4
-+ https://youtu.be/PFt0DDX04b0
-+ https://youtube.com/shorts/PxY1gbxqpY8?si=2kxX-kUz_5WU9544
-+ https://www.youtube.com/watch?v=bkMNRoFDhac
-+ https://youtu.be/PC5sMWTvncc
-+ https://youtu.be/NcU9C6JPkco
-+ https://www.youtube.com/watch?v=i0yaXoJLCcs.
-+ https://youtu.be/4b1INCYvl4g
-+ https://youtu.be/bbsrYb7I80k
-+ https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
-
-
 + https://youtu.be/EnlBt_Yjmf0?si=vtt4KUnkiyv2UGrt
 + https://youtu.be/UJ8DchnDCxY?si=GbThkO833Ii4pINc
 + https://youtube.com/shorts/AhZ8x1j8Tfw?si=K18RkReg73NN1h23
