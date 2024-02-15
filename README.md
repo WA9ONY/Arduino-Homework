@@ -34,8 +34,9 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
       + Pros
         + Creates code for Arduino and Python for Raspberry Pi.
-        + Voice prompts work very nice on iPad.
+        + iPad voice prompts works better than any other ChatBots.
         + History of conversations that can be continued.
+        + I can [share my conversations](https://github.com/WA9ONY/ChatGPT) with others.
         + Be able to create images.
         + Responses are not copyrighted.
         + Using ChatGPT for over a year.
