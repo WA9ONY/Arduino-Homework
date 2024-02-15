@@ -276,6 +276,34 @@ ___
 + ChatGPT
   + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)  
 ---
+
+---
+## Homework YouTube videos as of 1/28/2024
++ https://youtu.be/EnlBt_Yjmf0?si=vtt4KUnkiyv2UGrt
++ https://youtu.be/UJ8DchnDCxY?si=GbThkO833Ii4pINc
++ https://youtube.com/shorts/AhZ8x1j8Tfw?si=K18RkReg73NN1h23
++ https://youtube.com/shorts/fhoe0dIXIsY?si=HIYYhfiHftl2Y6Ax
++ https://youtu.be/EnlBt_Yjmf0?si=WNJZUnEc8jmydUN9
+
++ https://youtu.be/EnlBt_Yjmf0
++ https://youtu.be/UJ8DchnDCxY
++ https://youtube.com/shorts/AhZ8x1j8Tfw?si=1ZEYItpyzMKOPEM2
++ https://youtube.com/shorts/_9gDINwu7eA
++ https://youtube.com/shorts/fhoe0dIXIsY?si=QrvArYzw517_-em5
++ https://www.youtube.com/watch?v=eNOXOovuPm4
++ https://youtu.be/PFt0DDX04b0
++ https://youtube.com/shorts/PxY1gbxqpY8?si=2kxX-kUz_5WU9544
++ https://www.youtube.com/watch?v=bkMNRoFDhac
++ https://youtu.be/PC5sMWTvncc
++ https://youtu.be/NcU9C6JPkco
++ https://www.youtube.com/watch?v=i0yaXoJLCcs.
++ https://youtu.be/4b1INCYvl4g
++ https://youtu.be/bbsrYb7I80k
++ https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
+
++ https://www.youtube.com/watch?v=2QLwzy4QgBk
+
+---
 <A NAME="L3"></A>
 <HR>
 <P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
