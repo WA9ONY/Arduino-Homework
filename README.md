@@ -20,7 +20,7 @@
     
 # YouTube Channel: Paul McWhorter Arduino Tutorials
 
-Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [25 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [36 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
   + [YouTube channel](https://www.youtube.com/@paulmcwhorter)
   + [TopTechBoy.com](https://toptechboy.com/)
   + [Patreon](https://www.patreon.com/paulmcwhorter)
