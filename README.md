@@ -179,6 +179,10 @@ Source: Conversation with Bing, 1/29/2024
 This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
 
 ---
+## Reference
++ Arduino Portenta H7 How to upload your first sketch [YouTube](https://youtu.be/epAn3ynDjhY?si=2NUEv9Z_Xazewept)
++ Ultimate Guide to Arduino Nano: Every Model Reviewed & Compared! [YouTube](https://youtu.be/pIKGwARvgyQ?si=lMIdHyLZ2gdhEiKE)
+---
 ## Homework YouTube videos as of 1/28/2024
 + https://www.youtube.com/watch?v=3WfvOFglzKg
 + https://youtu.be/SlDcf9h6jrA?si=XuGxh4ILnD6S26lS
@@ -265,6 +269,7 @@ Therefore, the current to light the LED_BUILTIN does not come from the R7FA4M1AB
 + [Arduino IDE](https://docs.arduino.cc/software/ide/)
 + [Programming](https://docs.arduino.cc/programming/)
 + Arduino [Learn](https://docs.arduino.cc/learn/)
++ Connecting a Relay Module to a Microcontroller [YouTube](https://youtu.be/FWvEEtrTGRQ?si=4oVBZkOxn17dXzrO)
 ___
 ## Morse Code Research
 + [Wikipedia Morse code](https://en.wikipedia.org/wiki/Morse_code)
