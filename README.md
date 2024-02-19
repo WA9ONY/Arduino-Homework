@@ -182,6 +182,7 @@ This code will turn the LED on for 500ms and then turn it off for another 500ms,
 ## Reference
 + Arduino Portenta H7 How to upload your first sketch [YouTube](https://youtu.be/epAn3ynDjhY?si=2NUEv9Z_Xazewept)
 + Ultimate Guide to Arduino Nano: Every Model Reviewed & Compared! [YouTube](https://youtu.be/pIKGwARvgyQ?si=lMIdHyLZ2gdhEiKE)
++ Google arduino uno r4 led matrix [search](https://www.google.com/search?q=arduino+uno+r4+led+matrix&rlz=1C9BKJA_enUS774US815&oq=arduino+uno+r4&gs_lcrp=EgZjaHJvbWUqBwgJEAAYgAQyDAgAECMYJxiABBiKBTIQCAEQLhiDARixAxiABBjlBDIGCAIQRRhBMgYIAxBFGD0yDAgEEAAYFBiHAhiABDIKCAUQLhiABBjlBDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTQ3NzU1ajBqN6gCALACAA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8)
 ---
 ## Homework YouTube videos as of 1/28/2024
 + https://www.youtube.com/watch?v=3WfvOFglzKg
