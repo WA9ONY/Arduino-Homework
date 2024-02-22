@@ -24,6 +24,7 @@ Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has ext
   + [YouTube channel](https://www.youtube.com/@paulmcwhorter)
   + [TopTechBoy.com](https://toptechboy.com/)
   + [Patreon](https://www.patreon.com/paulmcwhorter)
+  + [KF5ZBY](https://www.qrz.com/db/KF5ZBY)
 
 Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
   + SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi  [Amazon](https://amzn.to/3SciApZ)
