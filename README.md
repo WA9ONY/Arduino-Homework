@@ -36,6 +36,7 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
 I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   + Jensen Huang says kids shouldn't learn to code — they should leave it up to AI [URL](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-advises-against-learning-to-code-leave-it-up-to-ai)
+    + Nvidia CEO Jensen Huang at World Government Summit [YouTube](https://youtu.be/Y1pHXV7E4xY?si=CvkJiVte5ht01Pkc)
   + OpenAI [ChatGPT](https://openai.com/)
     + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
       + Pros
