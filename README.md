@@ -60,8 +60,6 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
     + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
     + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
     + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
-  + Google [Brad](https://bard.google.com/chat)
-  + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
 
 
 ---
@@ -144,52 +142,6 @@ void loop() {
 
 ```
 
-## Microsoft Bing
-Bing Pompt: Can you create Arduino code?
-
-Yes, I can help you with that. What kind of code would you like me to create? 😊
-
----
-Bing Pompt: Blink the LED on the Arduino UNO R4 at 1 Hz.
-
-Sure, I can help you with that. Here's the code to blink the LED on the Arduino UNO R4 at 1 Hz:
-
-```c
-// Define the pin number for the LED
-const int ledPin = 13;
-
-void setup() {
-  // Set the LED pin as an output
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  // Turn the LED on
-  digitalWrite(ledPin, HIGH);
-  // Wait for 500ms
-  delay(500);
-  // Turn the LED off
-  digitalWrite(ledPin, LOW);
-  // Wait for 500ms
-  delay(500);
-}
-```
-
-This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
-
-```
-Source: Conversation with Bing, 1/29/2024
-(1) Blinking LED's at specific hz frequency - Arduino Forum. https://forum.arduino.cc/t/blinking-leds-at-specific-hz-frequency/641848./Images/UNOr4PinOut.png
-(2) Blinking at 1HZ - Programming Questions - Arduino Forum. https://forum.arduino.cc/t/blinking-at-1hz/623570.
-(3) How to blink led in arduino uno board?. https://forum.arduino.cc/t/how-to-blink-led-in-arduino-uno-board/452657.
-(4) arduino uno - How to blink a series of LED alternately only one at a .... https://arduino.stackexchange.com/questions/15817/how-to-blink-a-series-of-led-alternately-only-one-at-a-time.
-(5) Blink - Arduino. https://www.arduino.cc/en/Tutorial/Blink.
-(6) undefined. https://www.arduino.cc/en/tutorial/BlinkWithoutDelay.
-(7) undefined. https://werner.rothschopf.net/microcontroller/202202_tools_led_en.htm.
-```
----
-
-This code will turn the LED on for 500ms and then turn it off for another 500ms, effectively blinking the LED at a frequency of 1 Hz. Let me know if you have any questions or if there's anything else I can help you with!
 
 ---
 ## Reference
