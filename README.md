@@ -47,6 +47,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Be able to create images.
         + Responses are not copyrighted.
         + Using ChatGPT for over a year.
+        + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc. [PDF](ChatGPI/ChatGPT20230305b.pdf)
       + Cons
         + $20/month
         + Cannot create illustrations 
