@@ -49,6 +49,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Using ChatGPT for over a year.
         + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
           + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
+          + [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPT20230305b.pdf)
           + [PDF](https://github.com/WA9ONY/Arduino-Homework/blob/main/ChatGPI/ChatGPT20230305b.pdf)
       + Cons
         + $20/month
