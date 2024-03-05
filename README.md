@@ -52,9 +52,8 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
             + GitHub cannot display the large HTML file.  Download it and view it in a web browser.
           + [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
             + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
-          + [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
+          + [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
             + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 2.
-            + [HTML](ChatGPT20230305Lesson1.html)
        + Cons
         + $20/month
         + Cannot create illustrations 
@@ -76,6 +75,9 @@ These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1
 
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
++ [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
+  + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
+
 
 
 ## OpenAI ChatGPT-4
@@ -227,6 +229,8 @@ Extended Projects
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
++ [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
+  + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 2.
 
 ---
 ## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
