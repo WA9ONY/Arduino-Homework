@@ -47,7 +47,9 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Be able to create images.
         + Responses are not copyrighted.
         + Using ChatGPT for over a year.
-        + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc. [PDF](https://github.com/WA9ONY/Arduino-Homework/blob/main/ChatGPI/ChatGPT20230305b.pdf)
+        + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
+          + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
+          + [PDF](https://github.com/WA9ONY/Arduino-Homework/blob/main/ChatGPI/ChatGPT20230305b.pdf)
       + Cons
         + $20/month
         + Cannot create illustrations 
