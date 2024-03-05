@@ -74,7 +74,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
 
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
-+ [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
++ [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
 + [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
   + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
 
@@ -221,14 +221,15 @@ Homework Problems
 + Build one LEDs with 100 kOhm resistor.
 + Blink SOS repeatly.
 
-Extended Projects
+Exploring Byond Projects
 + Morse code generator to practice receiving Morse code.
-  + All the Morese code characters.
+  + All the Morse code characters.
+  + Practice data to send.
 + Straight key mode to practice sending Morse code.
 
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
-+ [YouTube homework](https://www.youtube.com/@WA9ONYHomework)
++ [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
 + [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
   + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 2.
 
