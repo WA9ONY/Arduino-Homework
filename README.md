@@ -50,7 +50,9 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
           + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
           + [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPT20230305b.pdf)
-          + [PDF](https://github.com/WA9ONY/Arduino-Homework/blob/main/ChatGPI/ChatGPT20230305b.pdf)
+            + Download the PDF and use the PDF search on L1 or L2 to see my ChatGPT conversations.
+          + [HTML](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPT20230305b.html)
+
       + Cons
         + $20/month
         + Cannot create illustrations 
