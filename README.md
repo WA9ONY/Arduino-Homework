@@ -8,7 +8,7 @@
 <img width="701" height="470" src="/Images/lessonMC.png"><BR>  
 © David Haworth   
 </p>
-
+<A NAME="P1"></A>
 # Arduino Microcontrollers Homework Index
 + YouTube Channel: Paul McWhorter Arduino <A HREF="README.md#P1">Tutorials</A>
 + <A HREF="README.md#L1">Lesson 1</A>: Getting Started for Absolute Beginners
@@ -16,7 +16,6 @@
   + <A HREF="README.md#L2">Lesson 2S</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
 + <A HREF="README.md#L3">Lesson 3</A>: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
 
-<A NAME="P1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/channel/UCq4BzKarrZdc_Tcvf8AhlTA">YouTube Homework</A> <A HREF="#L1">--&gt;</A></P>  
     
