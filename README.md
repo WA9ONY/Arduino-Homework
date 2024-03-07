@@ -12,10 +12,13 @@
 <A NAME="P1"></A>
 
 + YouTube Channel: Paul McWhorter Arduino <A HREF="README.md#P1">Tutorials</A>
-+ <A HREF="README.md#L1">Lesson 1</A>: Getting Started for Absolute Beginners
-+ <A HREF="README.md#L2">Lesson 2</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
-  + <A HREF="README.md#L2">Lesson 2S</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
-+ <A HREF="README.md#L3">Lesson 3</A>: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
++ <A HREF="README.md#L1">1:</A>: Getting Started for Absolute Beginners
++ <A HREF="README.md#L2">2:</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
+  + <A HREF="README.md#L2">2S:</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
++ <A HREF="README.md#L3">3:</A>: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
++ 4: Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard
++ 5: Arduino Uno R4 WiFi LESSON 5: Explaining How Computers Work Based On Binary Numbers
++ 7: Arduino Uno R4 WiFi LESSON 7: Doing Math in Binary
 
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/channel/UCq4BzKarrZdc_Tcvf8AhlTA">YouTube Homework</A> <A HREF="#L1">--&gt;</A></P>  
