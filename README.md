@@ -49,12 +49,11 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Responses are not copyrighted.
         + Using ChatGPT for over a year.
         + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
-          + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
-            + GitHub cannot display the large HTML file.  Download it and view it in a web browser.
-          + [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
-            + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
-          + [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
-            + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 2.
+          + [GitHub directory of ChatGPT conversations (https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
+          + ChatGPT Lession 1 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
+            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 1.
+          + ChatGPT Lession 2 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
+            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 2.
        + Cons
         + $20/month
         + Cannot create illustrations 
