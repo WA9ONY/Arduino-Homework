@@ -6,11 +6,11 @@
 
 <p align="center">
 <img width="701" height="470" src="/Images/lessonMC.png"><BR>  
-Arduino R4 WiFi Homework<BR>Image© David Haworth   
+Image © David Haworth   
 </p>
 <A NAME="P1"></A>
 
-# Arduino Microcontrollers Homework Index
+# Arduino UNO R4 WiFi Microcontrollers Homework Index
 + YouTube Channel: Paul McWhorter Arduino <A HREF="README.md#P1">Tutorials</A>
 + <A HREF="README.md#L1">Lesson 1</A>: Getting Started for Absolute Beginners
 + <A HREF="README.md#L2">Lesson 2</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
