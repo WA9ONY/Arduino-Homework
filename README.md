@@ -4,13 +4,13 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A> <A HREF="#P1">--&gt;</A>
 </P>  
 
+# Arduino UNO R4 WiFi Homework
 <p align="center">
-<img width="701" height="470" src="/Images/lessonMC.png"><BR>  
-Image © David Haworth   
+<img width="701" height="470" src="/Images/lessonMC.png">   
 </p>
+
 <A NAME="P1"></A>
 
-# Arduino UNO R4 WiFi Homework
 + YouTube Channel: Paul McWhorter Arduino <A HREF="README.md#P1">Tutorials</A>
 + <A HREF="README.md#L1">Lesson 1</A>: Getting Started for Absolute Beginners
 + <A HREF="README.md#L2">Lesson 2</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
