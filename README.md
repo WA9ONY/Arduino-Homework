@@ -6,7 +6,7 @@
 
 <p align="center">
 <img width="701" height="470" src="/Images/lessonMC.png"><BR>  
-© David Haworth   
+Arduino R4 WiFi Homework<BR>Image© David Haworth   
 </p>
 <A NAME="P1"></A>
 # Arduino Microcontrollers Homework Index
