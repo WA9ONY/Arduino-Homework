@@ -47,9 +47,7 @@ These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1
 
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
-+ [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
-  + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
-
++ Lession 1 ChatGPT, 27 conversations, 84 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson1ChatGPT.pdf)
 
 ## OpenAI ChatGPT-4
 Homework assignment is to determine the minimum delay time to see the blinking LED. 
@@ -146,7 +144,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
           + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT) of ChatGPT conversations 
             + Download the PDF and use the PDF viewer to search on ChatGPT conversations
           + Lession 1 ChatGPT, 27 conversations, 84 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson1ChatGPT.pdf)
-          + Lession 2 ChatGPT, 60 conversations, 162 pages [[PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
+          + Lession 2 ChatGPT, 60 conversations, 162 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
        + Cons
         + $20/month
         + Cannot create illustrations 
@@ -177,7 +175,6 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
     + jq '.' L123.json > pretty_output.json
     + Open pretty_output.json in Geany to view the pretty JSON data.
     + If the JSON file is small edit it in Geany.
-
   + For large JSON file use sed in the CLI to edit the L123.JSON
     + sed 's/ {"title/\n {"title/g' L123.json > L123lf.json
   + View L123lf.json in Geany to check sucessful lf insertion.
@@ -191,10 +188,6 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
   + Open L1.html in Chromium and print lession 1 ChatGPT conversations as one Lesson1ChatGPT.PDF file.
   + Open Lesson1ChatGPT.PDF to view and search.
     + Use search for "L1 " to jump from conversation to next conversation.
-
-
-
-
   + Use jq to convert the single line JSON file to a pretty output JSON file
   + In Ubuntu CLI enter to see a JSON pretty output file.
     + jq '.' conversations.json > pretty_output.json
@@ -230,8 +223,7 @@ Exploring Byond Projects
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
-+ [ChatGPT Lession 2 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
-  + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 2.
++ Lession 2 ChatGPT, 60 conversations, 162 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
 
 ---
 ## OpenAI [ChatGPT](https://openai.com/) Shared Conversations
