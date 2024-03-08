@@ -12,14 +12,14 @@
 <A NAME="P1"></A>
 
 ## Arduino Homework Index
-+ <A HREF="README.md#L1">1:</A>: Getting Started for Absolute Beginners
-+ <A HREF="README.md#L2">2:</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
-  + <A HREF="README.md#L2">2S:</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
-+ <A HREF="README.md#L3">3:</A>: Blink an LED With the Arduino
-+ <A HREF="README.md#L4">4:</A>: Building Clean and Neat Circuits on a Breadboard
-+ <A HREF="README.md#L5">5:</A>: Explaining How Computers Work Based On Binary Numbers
-+ <A HREF="README.md#L6">6:</A>: Create a Binary Counter With Arduino
-+ <A HREF="README.md#L7">7:</A>: Doing Math in Binary
++ <A HREF="README.md#L1">1:</A> Getting Started for Absolute Beginners
++ <A HREF="README.md#L2">2:</A> Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
+  + <A HREF="README.md#L2">2S:</A> Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
++ <A HREF="README.md#L3">3:</A> Blink an LED With the Arduino
++ <A HREF="README.md#L4">4:</A> Building Clean and Neat Circuits on a Breadboard
++ <A HREF="README.md#L5">5:</A> Explaining How Computers Work Based On Binary Numbers
++ <A HREF="README.md#L6">6:</A> Create a Binary Counter With Arduino
++ <A HREF="README.md#L7">7:</A> Doing Math in Binary
 
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/channel/UCq4BzKarrZdc_Tcvf8AhlTA">YouTube Homework</A> <A HREF="#L1">--&gt;</A></P>  
