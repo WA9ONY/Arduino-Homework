@@ -121,6 +121,7 @@ void loop() {
 + Google arduino uno r4 led matrix [search](https://www.google.com/search?q=arduino+uno+r4+led+matrix&rlz=1C9BKJA_enUS774US815&oq=arduino+uno+r4&gs_lcrp=EgZjaHJvbWUqBwgJEAAYgAQyDAgAECMYJxiABBiKBTIQCAEQLhiDARixAxiABBjlBDIGCAIQRRhBMgYIAxBFGD0yDAgEEAAYFBiHAhiABDIKCAUQLhiABBjlBDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTQ3NzU1ajBqN6gCALACAA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8)
 + Ultimate Guide to Arduino Nano: Every Model Reviewed & Compared! [YouTube](https://youtu.be/pIKGwARvgyQ?si=lMIdHyLZ2gdhEiKE)
 + Arduino Portenta H7 How to upload your first sketch [YouTube](https://youtu.be/epAn3ynDjhY?si=2NUEv9Z_Xazewept)
++ Slowing down LED Matrix animations [forum](https://forum.arduino.cc/t/slowing-down-led-matrix-animations/1143122/1)
 
 ---
 ## Arduino Programming with ChatBots
