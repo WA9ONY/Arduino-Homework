@@ -36,7 +36,6 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
   + SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi  [Amazon](https://amzn.to/3SciApZ)
   + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://www.sunfounder.com/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
----
 
 <A NAME="L1"></A>
 <HR>
@@ -50,7 +49,6 @@ These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1
 + [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
 + [ChatGPT Lession 1 PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
   + Download the PDF and use the PDF viewer to search on L1 or L2 to see my ChatGPT conversations regarding lessons 1.
-
 
 
 ## OpenAI ChatGPT-4
