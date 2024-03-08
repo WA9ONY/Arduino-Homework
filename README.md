@@ -70,7 +70,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 ---
 <A NAME="L1"></A>
 <HR>
-<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
     
 # [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq): Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners
 
@@ -337,7 +337,7 @@ Homework
 ---
 <A NAME="L7"></A>
 <HR>
-<P align="center"><A HREF="#L5">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L8">--&gt;</A></P>  
+<P align="center"><A HREF="#L6">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L8">--&gt;</A></P>  
     
 # [LESSON 7](https://youtu.be/w1C3OT1V3xA?si=Tw_QPeuM9F9kQGHh): Arduino Uno R4 Wifi LESSON 7: Doing Math in Binary
 
