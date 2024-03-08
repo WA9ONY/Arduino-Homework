@@ -156,6 +156,49 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 
 ---
+## Creating PDF of all the ChatGPT conversations regarding lession 1.
++ I ChatGPT click on your user icon.
++ Rename conversations for lesson 1 to begin with L1.
++ Select Settings.
++ Select Data controls
++ Select Export data, confirm export.
++ Go to Email, open ChatGPT email and download zip file.
++ Extract the file
++ Double click on the chat.html file to see all your ChatGPT conversations.
++ Copy chat.html and rename it to L123.html
++ Open L123.html in Geany for editing.
+  + Delete all line befor var jasoData = etc.
+  + Delete all line after var jasoData = etc.
+  + Delete var jsonData = 
+  + Keep the [ ] at the beginning and the end of the line.
+  + Save as L123.jaon
+    + I my case this is a single line JSON data set that is 4.7 MB
+    + Next step is tomake a pretty JSON file.
+    + jq '.' L123.json > pretty_output.json
+    + Open pretty_output.json in Geany to view the pretty JSON data.
+    + If the JSON file is small edit it in Geany.
+
+  + For large JSON file use sed in the CLI to edit the L123.JSON
+    + sed 's/ {"title/\n {"title/g' L123.json > L123lf.json
+  + View L123lf.json in Geany to check sucessful lf insertion.
+  + Use sed to delete unwanted conversations.
+    + sed '/"L1 /!d' L123lf.json > L1.json
+    + Replace [ for sort operation.
+    + sort L1.json > L1sort.json
+  + Paste L1sort.json over the orginal JSON data in chat.html with Geany.
+  + Check [ and ] at the beginning and ending of the JSON data.
+  + Save as L1.html.
+  + Open L1.html in Chromium and print lession 1 ChatGPT conversations as one Lesson1ChatGPT.PDF file.
+  + Open Lesson1ChatGPT.PDF to view and search.
+    + Use search for "L1 " to jump from conversation to next conversation.
+
+
+
+
+  + Use jq to convert the single line JSON file to a pretty output JSON file
+  + In Ubuntu CLI enter to see a JSON pretty output file.
+    + jq '.' conversations.json > pretty_output.json
+   
 ---
 ## Homework YouTube videos as of 1/28/2024
 + https://www.youtube.com/watch?v=3WfvOFglzKg
