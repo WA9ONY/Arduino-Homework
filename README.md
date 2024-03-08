@@ -9,7 +9,7 @@
 <img width="701" height="470" src="/Images/lessonMC.png">   
 </p>
 
-<A NAME="P1"></A>
+<A NAME="INDEX"></A>
 
 ## Arduino Homework Index
 + <A HREF="README.md#L1">1:</A> Getting Started for Absolute Beginners
