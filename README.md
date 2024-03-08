@@ -11,7 +11,8 @@
 
 
 <A NAME="INDEX"></A>
-## Arduino Homework Index
+<HR>
+# Arduino Homework Index
 + <A HREF="README.md#L1">1:</A> Getting Started for Absolute Beginners
 + <A HREF="README.md#L2">2:</A> Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
   + <A HREF="README.md#L2">2S:</A> Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
