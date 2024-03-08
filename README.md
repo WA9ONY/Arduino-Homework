@@ -11,14 +11,15 @@
 
 <A NAME="P1"></A>
 
-## Index
+## Arduino Homework Index
 + <A HREF="README.md#L1">1:</A>: Getting Started for Absolute Beginners
 + <A HREF="README.md#L2">2:</A>: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
   + <A HREF="README.md#L2">2S:</A>: Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
-+ <A HREF="README.md#L3">3:</A>: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
-+ 4: Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard
-+ 5: Arduino Uno R4 WiFi LESSON 5: Explaining How Computers Work Based On Binary Numbers
-+ 7: Arduino Uno R4 WiFi LESSON 7: Doing Math in Binary
++ <A HREF="README.md#L3">3:</A>: Blink an LED With the Arduino
++ <A HREF="README.md#L4">4:</A>: Building Clean and Neat Circuits on a Breadboard
++ <A HREF="README.md#L5">5:</A>: Explaining How Computers Work Based On Binary Numbers
++ <A HREF="README.md#L6">6:</A>: Create a Binary Counter With Arduino
++ <A HREF="README.md#L7">7:</A>: Doing Math in Binary
 
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/channel/UCq4BzKarrZdc_Tcvf8AhlTA">YouTube Homework</A> <A HREF="#L1">--&gt;</A></P>  
@@ -285,7 +286,7 @@ ___
 ---
 <A NAME="L3"></A>
 <HR>
-<P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
+<P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L4">--&gt;</A></P>  
     
 # [LESSON 3](https://youtu.be/0SENIWPdPhQ?si=weEF3eopwnePmu9E): Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
 
@@ -302,3 +303,43 @@ Homework
  + https://youtube.com/shorts/7sQmzckePI8?si=L_qiq_Ed_27Z-wtt
  + https://www.youtube.com/shorts/1_IcMGs8V6k
  + https://youtu.be/dX9JXY0G-NQ
+
+---
+<A NAME="L4"></A>
+<HR>
+<P align="center"><A HREF="#L3">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L5">--&gt;</A></P>  
+    
+# [LESSON 4](https://youtu.be/JUptf53Ni0A?si=-Ko5NuVBNeN8oQ9L): Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard
+
+Homework
+
+
+---
+<A NAME="L5"></A>
+<HR>
+<P align="center"><A HREF="#L4">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L6">--&gt;</A></P>  
+    
+# [LESSON 5](https://youtu.be/cSOpMpynXAI?si=358eEB5-pDTnodlz): Arduino Uno R4 Wifi LESSON 5: Explaining How Computers Work Based On Binary Numbers
+
+Homework
+
+
+---
+<A NAME="L6"></A>
+<HR>
+<P align="center"><A HREF="#L5">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L7">--&gt;</A></P>  
+    
+# [LESSON 6](https://youtu.be/KEtut8pzXZA?si=oNV1PWuddkcyhExu): Arduino Uno R4 Wifi LESSON 6: Create a Binary Counter With Arduino
+
+Homework
+
+
+---
+<A NAME="L7"></A>
+<HR>
+<P align="center"><A HREF="#L5">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="#INDEX">Index</A> <A HREF="#L8">--&gt;</A></P>  
+    
+# [LESSON 7](https://youtu.be/w1C3OT1V3xA?si=Tw_QPeuM9F9kQGHh): Arduino Uno R4 Wifi LESSON 7: Doing Math in Binary
+
+Homework
+
