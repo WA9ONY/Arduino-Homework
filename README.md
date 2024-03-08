@@ -224,6 +224,7 @@ Exploring Byond Projects
 Homework Solutions
 + [Presentation PDF & ODP](https://github.com/WA9ONY/Arduino-Homework/tree/main/Presentation/) Download the PDF to use the URL links.
 + [YouTube WA9ONY homework](https://www.youtube.com/@WA9ONYHomework)
++ Lession 2 sketch [ino](https://github.com/WA9ONY/Arduino-Homework/tree/main/Sketches)
 + Lession 2 ChatGPT, 60 conversations, 162 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
 
 ---
