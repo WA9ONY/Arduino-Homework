@@ -37,37 +37,7 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
   + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://www.sunfounder.com/products/sunfounder-elite-explorer-kit-with-official-arduino-uno-r4-wifi)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
 ---
-## Arduino Programming with ChatBots
 
-I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
-<BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
-  + Jensen Huang says kids shouldn't learn to code — they should leave it up to AI [URL](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-advises-against-learning-to-code-leave-it-up-to-ai)
-    + Nvidia CEO Jensen Huang at World Government Summit, coding info at 17:15 in the [YouTube](https://youtu.be/Y1pHXV7E4xY?si=CvkJiVte5ht01Pkc)
-  + OpenAI [ChatGPT](https://openai.com/)
-    + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
-      + Pros
-        + Creates code for Arduino and Python for Raspberry Pi.
-        + iPad voice prompts works better than any other ChatBots.
-        + History of conversations that can be continued.
-        + I can [share my conversations](https://github.com/WA9ONY/ChatGPT) with others.
-        + Be able to create images.
-        + Responses are not copyrighted.
-        + Using ChatGPT for over a year.
-        + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
-          + [GitHub directory of ChatGPT conversations (https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
-          + ChatGPT Lession 1 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
-            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 1.
-          + ChatGPT Lession 2 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
-            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 2.
-       + Cons
-        + $20/month
-        + Cannot create illustrations 
-    + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
-    + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
-    + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
-
-
----
 <A NAME="L1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
@@ -156,6 +126,38 @@ void loop() {
 + Ultimate Guide to Arduino Nano: Every Model Reviewed & Compared! [YouTube](https://youtu.be/pIKGwARvgyQ?si=lMIdHyLZ2gdhEiKE)
 + Arduino Portenta H7 How to upload your first sketch [YouTube](https://youtu.be/epAn3ynDjhY?si=2NUEv9Z_Xazewept)
 
+---
+## Arduino Programming with ChatBots
+
+I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
+<BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+  + Jensen Huang says kids shouldn't learn to code — they should leave it up to AI [URL](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-advises-against-learning-to-code-leave-it-up-to-ai)
+    + Nvidia CEO Jensen Huang at World Government Summit, coding info at 17:15 in the [YouTube](https://youtu.be/Y1pHXV7E4xY?si=CvkJiVte5ht01Pkc)
+  + OpenAI [ChatGPT](https://openai.com/)
+    + ChatGPT 4 Plus is [$20/month](https://openai.com/chatgpt/pricing)
+      + Pros
+        + Creates code for Arduino and Python for Raspberry Pi.
+        + iPad voice prompts works better than any other ChatBots.
+        + History of conversations that can be continued.
+        + I can [share my conversations](https://github.com/WA9ONY/ChatGPT) with others.
+        + Be able to create images.
+        + Responses are not copyrighted.
+        + Using ChatGPT for over a year.
+        + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
+          + [GitHub directory of ChatGPT conversations (https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
+          + ChatGPT Lession 1 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson1.pdf)
+            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 1.
+          + ChatGPT Lession 2 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/ChatGPTLesson2.pdf)
+            + Download the PDF and use the PDF viewer to search on ChatGPT conversations regarding lessons 2.
+       + Cons
+        + $20/month
+        + Cannot create illustrations 
+    + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
+    + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
+    + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
+
+
+---
 ---
 ## Homework YouTube videos as of 1/28/2024
 + https://www.youtube.com/watch?v=3WfvOFglzKg
