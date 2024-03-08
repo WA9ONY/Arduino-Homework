@@ -143,7 +143,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Using ChatGPT for over a year.
         + Twice the tokens of ChatGPT 3.5.
         + Export conversation, L1 is for Lesson 1, L2 is for Lesson, etc.
-          + [GitHub directory of ChatGPT conversations (https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT)
+          + [GitHub directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT) of ChatGPT conversations 
             + Download the PDF and use the PDF viewer to search on ChatGPT conversations
           + Lession 1 ChatGPT, 27 conversations, 84 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson1ChatGPT.pdf)
           + Lession 2 ChatGPT, 60 conversations, 162 pages [[PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
