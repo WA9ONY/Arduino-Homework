@@ -40,7 +40,7 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
     
-# [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq) Homework:
+# [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq) Homework
 + Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners
 
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
@@ -225,7 +225,7 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 <HR>
 <P align="center"><A HREF="#L1">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L3">--&gt;</A></P>  
     
-# [LESSON 2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS) Homework: 
+# [LESSON 2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS) Homework
 + Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
 + [LESSON 2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV): Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
 
