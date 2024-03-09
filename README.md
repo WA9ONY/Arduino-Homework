@@ -113,6 +113,7 @@ void loop() {
 
 ```
 
+## Exploring Beyond the Required Homework
 
 ---
 ## Reference
@@ -124,7 +125,7 @@ void loop() {
 + Slowing down LED Matrix animations [forum](https://forum.arduino.cc/t/slowing-down-led-matrix-animations/1143122/1)
 
 ---
-## Arduino Programming with ChatBots
+## Arduino Programming with ChatGPT
 
 I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
