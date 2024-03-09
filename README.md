@@ -7,12 +7,6 @@
 <p align="center">
 <img width="701" height="470" src="/Images/lessonMC.png">   
 </p>
-
-<p align="center">
-<img width="256" height="256" src="/Images/Benchmark50.png">   
-</p>
-
-
 <HR>
 <A NAME="INDEX"></A>
 
@@ -121,6 +115,15 @@ void loop() {
 
 ## Exploring Beyond the Required Homework
 
+```
+
+<p align="center">
+<img width="256" height="256" src="/Images/Benchmark50.png">   
+</p>
+
+## Benchmarking
+
+
 ---
 ## Reference
 + Using the Arduino Uno R4 WiFi Built In LED Matrix. [YouTube](https://www.youtube.com/live/uoQuZ5e_SsQ?si=FtUZmCtEd65HnUd0)
@@ -162,6 +165,11 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 
 ---
+
+<p align="center">
+<img width="448" height="256" src="/Images/Share50.png">   
+</p>
+
 ## Creating PDF of all the ChatGPT conversations regarding lession 1.
 + I ChatGPT click on your user icon.
 + Rename conversations for lesson 1 to begin with L1.
