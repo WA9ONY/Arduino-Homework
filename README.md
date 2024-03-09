@@ -210,6 +210,11 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 # [LESSON 2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS): Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
 + [LESSON 2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV): Arduino Uno R4 WiFi LESSON 2 SUPPLEMENTAL: Calculating Current Limiting Resistor for LED
 
+<p align="center">
+<img width="256" height="256" src="/Images/LEDsos50.png">   
+</p>
+
+
 These are homework and notes for LESSON [2](https://youtu.be/S1NJJRpWHpA?si=skB0W0P5rj_-UYJS) & [2S](https://youtu.be/_kpiHFGB_ys?si=vS0O62etybqmPpXV)
 
 Homework Problems
