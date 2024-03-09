@@ -112,11 +112,15 @@ void loop() {
 }
 
 ```
+---
+<p align="center">
+<img width="256" height="256" src="/Images/Benchmark50.png">   
+</p>
 
 ## Exploring Beyond the Required Homework
 
-```
 
+---
 <p align="center">
 <img width="256" height="256" src="/Images/Benchmark50.png">   
 </p>
