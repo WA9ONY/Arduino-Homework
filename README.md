@@ -136,7 +136,7 @@ void loop() {
 + Ultimate Guide to Arduino Nano: Every Model Reviewed & Compared! [YouTube](https://youtu.be/pIKGwARvgyQ?si=lMIdHyLZ2gdhEiKE)
 + Arduino Portenta H7 How to upload your first sketch [YouTube](https://youtu.be/epAn3ynDjhY?si=2NUEv9Z_Xazewept)
 + Slowing down LED Matrix animations [forum](https://forum.arduino.cc/t/slowing-down-led-matrix-animations/1143122/1)
-+ [Arduino days]https://www.youtube.com/live/x_hJ4-JPsag?si=yCNgot1dt4hnXI8o]
++ [Arduino days](https://www.youtube.com/live/x_hJ4-JPsag?si=yCNgot1dt4hnXI8o)
 
 ---
 ## Arduino Programming with ChatGPT
