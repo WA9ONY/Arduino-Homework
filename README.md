@@ -139,6 +139,7 @@ void loop() {
 + [2024 March Arduino days 1](https://www.youtube.com/live/x_hJ4-JPsag?si=yCNgot1dt4hnXI8o)
   + [Arduino days 2](https://www.youtube.com/live/x_hJ4-JPsag?si=s-OD1XKXf0WhEMxG)
   + [Arduino days 3](https://www.youtube.com/live/wSdFAJ3gcpM?si=pIRRv64jvezpzD-o)
++ SparkFun Arduino UNO R4 WiFi Qwiic Kit Hookup [Guide](https://learn.sparkfun.com/tutorials/sparkfun-arduino-uno-r4-wifi-qwiic-kit-hookup-guide?utm_campaign=SFM-NPI-03072024&utm_medium=email&_hsmi=298337594&_hsenc=p2ANqtz--r-T6IoGSXWjd1TgRKmfawoKGYp4UhFrPwLsDcslE_DWhzJA9XlIVo7QMvftDdGjnGAlcVyuAUV09mlquZlmM7H_65Jg&utm_content=298336618&utm_source=hs_email)
 
 ---
 ## Arduino Programming with ChatGPT
