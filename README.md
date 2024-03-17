@@ -217,7 +217,11 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
     + jq '.' conversations.json > pretty_output.json
 
 ---
-++ Arduino Serial Monitor Commands
+
+++ Arduino Serial Monitor Commands interpreter
+
+In the  Serial Monitor enter CTRL-` to enter the Commands interpreter.
+To exit enter Exit.
 ```
 c:\Users\david\Documents\Arduino\sketch_L2Morese31>help   
 For more information on a specific command, type HELP command-name
