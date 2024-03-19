@@ -465,6 +465,11 @@ ___
  + https://youtube.com/shorts/nLQPI_bnAZA?si=pPeKZSDB5svORTV3
  + https://www.youtube.com/watch?v=2QLwzy4QgBk
 
+## LCD I2C
++ Install LDC_I2C library
+  + Tools>Mange Libraries
+    + Search for LCD_I2C
+      + V2.3.0 By Blackhack, Install
 
 ---
 <A NAME="L3"></A>
