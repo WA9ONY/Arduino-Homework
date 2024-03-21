@@ -37,6 +37,17 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
     + SunFounder Elite Explorer Kit [docs](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
 
+YouTube Student Homework channels
+[Paul Mcwhorter homework](https://www.youtube.com/results?search_query=Paul+Mcwhorter+homework)
++ [Big Bogey Face](https://www.youtube.com/@bigbogeyface)
++ [Charlotte Swift](https://www.youtube.com/@charlotteswift)
++ [Code Cage](https://www.youtube.com/@codecage9333)
++ [Freddy VZ](https://www.youtube.com/@freddyveza)
++ [Hi Tech HuckleBerry](https://www.youtube.com/@hitechhuckleberry3678)
++ [Larry B](https://www.youtube.com/@larryb6759)
++ [Vaughn Taylor](https://www.youtube.com/@vaughntaylor2855)
++ [WilWinston](https://www.youtube.com/@WilWinston)
+  
 <A NAME="L1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L2">--&gt;</A></P>  
