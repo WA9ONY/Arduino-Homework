@@ -150,11 +150,21 @@ void loop() {
 + Slowing down LED Matrix animations [forum](https://forum.arduino.cc/t/slowing-down-led-matrix-animations/1143122/1)
 + [2024 March Arduino days 1](https://www.youtube.com/live/x_hJ4-JPsag?si=yCNgot1dt4hnXI8o)
   + [Arduino days 2](https://www.youtube.com/live/x_hJ4-JPsag?si=s-OD1XKXf0WhEMxG)
-  + [Arduino days 3](https://www.youtube.com/live/wSdFAJ3gcpM?si=pIRRv64jvezpzD-o)
+    + Python timer 11:22
+    + https://labs.arduino.cc/en
+    + Vision ML at edge
+    + Alvik robot https://arduino.cc/education/arduino-alvik/
+    + https://store-usa.arduino.cc/pages/alvik?selectedStore=us
+    + Moonmakers
+    + HAPPYARDUINODAY2024 15% off
+    + https://store-usa.arduino.cc/collections/edu-solutions/products/science-kit-r3
+    + Freddy VZ attended
+    + [Arduino days 3](https://www.youtube.com/live/wSdFAJ3gcpM?si=pIRRv64jvezpzD-o)
 + SparkFun Arduino UNO R4 WiFi Qwiic Kit Hookup [Guide](https://learn.sparkfun.com/tutorials/sparkfun-arduino-uno-r4-wifi-qwiic-kit-hookup-guide?utm_campaign=SFM-NPI-03072024&utm_medium=email&_hsmi=298337594&_hsenc=p2ANqtz--r-T6IoGSXWjd1TgRKmfawoKGYp4UhFrPwLsDcslE_DWhzJA9XlIVo7QMvftDdGjnGAlcVyuAUV09mlquZlmM7H_65Jg&utm_content=298336618&utm_source=hs_email)
 
 ---
 ## Arduino Programming with ChatGPT
+AI software in rapidly changing and the below pros and cons will be updated very quickly.
 
 I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create Arduino code, etc. 
 <BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
@@ -166,6 +176,9 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
         + Creates code for Arduino and Python for Raspberry Pi.
         + iPad voice prompts works better than any other ChatBots.
         + History of conversations that can be continued.
+        + + Exporting conversations is easy.
+          + HTML page & JSON files.
+        + Archive conversation feature. 
         + I can [share my conversations](https://github.com/WA9ONY/ChatGPT) with others.
         + Be able to create images.
         + Responses are not copyrighted.
@@ -178,12 +191,28 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
           + Lession 2 ChatGPT, 60 conversations, 162 pages [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/ChatGPT/Lesson2ChatGPT.pdf)
        + Cons
         + $20/month
-        + Cannot create illustrations 
+        + Cannot create illustrations
+        + No globa search of all conversations.
+          + Work around export conversations to HTML page and use browser search (CTRL-F) or save as PDF and use PDF search.
     + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing).
     + ChatGPT with Arduino and ESP32 | C++ and MicroPython coding [YouTube](https://youtu.be/UpwsQrc2Jls?si=CUEtGIWTQyfJOwjQ)
     + ChatGPT Arduino programming [YouTube search](https://www.youtube.com/results?search_query=ChatGPT+Arduino+programming)
 
-
+---
+## Arduino Programming with MicroSoft CoPilot
+AI software in rapidly changing and the below pros and cons will be updated very quickly.
+Pros
++ Works with apps on iOS (iPhon & iPad), voice input is good, voice output is good
++ Creates Arduino code.
+  + I perfer ChatGPT Arduino coding responses.
+  + But Copilot is unto date, includes UNO R4. 
++ Is upto date with Internet links.
++ Works on Chromium on Ubuntu 23 using Raspberry Pi 5 8G.
+Cons
++ Microsoft Copilot’s conversation transcripts are automatically removed after 30 days.
+  + However, users can access their chat history on Copilot for up to 90 days.
++ Exporting conversations is complex.
++ Image creation is buggy, very slow.
 ---
 
 <p align="center">
