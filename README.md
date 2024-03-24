@@ -162,6 +162,21 @@ void loop() {
     + [Arduino days 3](https://www.youtube.com/live/wSdFAJ3gcpM?si=pIRRv64jvezpzD-o)
 + SparkFun Arduino UNO R4 WiFi Qwiic Kit Hookup [Guide](https://learn.sparkfun.com/tutorials/sparkfun-arduino-uno-r4-wifi-qwiic-kit-hookup-guide?utm_campaign=SFM-NPI-03072024&utm_medium=email&_hsmi=298337594&_hsenc=p2ANqtz--r-T6IoGSXWjd1TgRKmfawoKGYp4UhFrPwLsDcslE_DWhzJA9XlIVo7QMvftDdGjnGAlcVyuAUV09mlquZlmM7H_65Jg&utm_content=298336618&utm_source=hs_email)
 
+
+---
+## Arduino UNO R4 YouTube Videos
++ NEW Arduino Uno R4 Boards - Minima & WiFi [vedio](https://youtu.be/kJE9CBb3fT8?si=Dlto78kOVofSmqO2)
+  + CAN bus R4 to R4 demo
+  + WiFi demo
+  + LED matrix demmo
+    + 96 LED, 1 top left, 96 bottom right
+    + Uses 11 GPIO pins
+    + Frame data, buffer frame, display on matrix
+    + Arduino_LED_Matrix library, part of the board software.
+    + Example sketches
+      + Display single frame loads fram data into buffer frae.
+      + 
+    + 
 ---
 ## Arduino Programming with ChatGPT
 AI software in rapidly changing and the below pros and cons will be updated very quickly.
