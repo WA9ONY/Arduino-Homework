@@ -39,11 +39,11 @@ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [25 videos playlist]
 
 YouTube Student Homework channels
 [Paul Mcwhorter homework](https://www.youtube.com/results?search_query=Paul+Mcwhorter+homework)
-+ [Adrian McMillan](https://www.youtube.com/@Adrian427)
++ *[Adrian McMillan](https://www.youtube.com/@Adrian427)
 + [Alistair Cook](https://www.youtube.com/@alistaircook1997)
 + [Arnold Schmucker](https://www.youtube.com/@arnoldschmucker9977)
 + [Benoît G. Marcotte](https://www.youtube.com/@benoitgmarcotte)
-+ [Big Bogey Face](https://www.youtube.com/@bigbogeyface)
++ *[Big Bogey Face](https://www.youtube.com/@bigbogeyface)
 + [Bruce Milyko](https://www.youtube.com/@brucemilyko8549)
 + [Charlotte Swift](https://www.youtube.com/@charlotteswift)
 + [Code Cage](https://www.youtube.com/@codecage9333)
