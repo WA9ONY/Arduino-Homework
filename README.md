@@ -554,6 +554,15 @@ ___
    + https://docs.arduino.cc/learn/electronics/lcd-displays/
 
 ---
+
+
+## CAP1188
++ YouTube
+  + [Arduino Capacitive Touch-Free Touch Sensor Tutorial](https://youtu.be/AvMYqBj6CSg?si=ZP_bgXtTrKnybHT1)
+  + [#30 Cap1188 Touch Sensor & USB Keyboard Emulator using Arduino Leonardo](https://youtu.be/aXNX4tgYyXE?si=Kv3AiOmU3M6oaWZ3)
+
+
+---
 <A NAME="L3"></A>
 <HR>
 <P align="center"><A HREF="#L2">&lt;--</A> <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A> - <A HREF="README.md#INDEX">Index</A> <A HREF="#L4">--&gt;</A></P>  
