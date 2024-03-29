@@ -408,6 +408,16 @@ c:\Users\david\Documents\Arduino\sketch_L2Morese31>
 
 
 
+---
+
+## Arduino Serial Monitor Commands interpreter
+
++ In the  Serial Monitor enter "CTRL-`" to enter the Commands interpreter.
++ Pan: middle mouse click and drag
++ Wrie bend point: right click on wire
++ Wrie bend point: left click on wire and drag to new location.
+
++ Turn off show grid before screen capture
 
 
    
