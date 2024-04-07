@@ -563,7 +563,7 @@ ___
  + Introduction to LCD2004 LCD display with I2C module for Arduino [YouTube](https://youtu.be/DKmNSCMPDjE?si=F7BnrLj5-EKljrfJ)
    + [GitHub](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
    + [Examples](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library/tree/master/examples)
- + EASY Arduino LCD I2C Scrolling Text Animation | Scroll Text on LCD Display Arduino | I2C LCD Scroll [YouTube]
+ + EASY Arduino LCD I2C Scrolling Text Animation | Scroll Text on LCD Display Arduino | I2C LCD Scroll [YouTube](https://youtu.be/m6VLpSIyIt8?si=dyw4hnKzCjBr2IMi)
    + [Code](https://drive.google.com/drive/folders/12zRuzokcyggkm4KgwlLi0GmwpwJaO8Uk)
  + Arduino Docs: Liquid Crystal Displays (LCD) with Arduino     
    + https://docs.arduino.cc/learn/electronics/lcd-displays/
