@@ -560,6 +560,8 @@ ___
       + V2.3.0 By Blackhack, Install
         + Blackhack [GitHub](https://github.com/blackhack/LCD_I2C)
       + File>Examples>Examples from Custom Library>LCD_I2C>Hello_World
+ + Introduction to LCD2004 LCD display with I2C module for Arduino [YouTube](https://youtu.be/DKmNSCMPDjE?si=F7BnrLj5-EKljrfJ)
+   + [GitHub](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
  + Arduino Docs: Liquid Crystal Displays (LCD) with Arduino     
    + https://docs.arduino.cc/learn/electronics/lcd-displays/
 
