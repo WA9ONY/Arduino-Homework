@@ -1,3 +1,4 @@
+![Banner Image](GitHubArduino.png)
 # Arduino UNO Projects on GitHub
 
 Welcome to our repository for Arduino UNO programming lessons! This README provides an overview of how we use the free version of GitHub to enhance our learning experience, share our work, and collaborate on Arduino UNO projects.
