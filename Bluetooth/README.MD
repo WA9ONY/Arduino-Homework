@@ -96,5 +96,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 The first three bytes of a Bluetooth device's 48-bit identifier identify the manufacturer, while the last three identify the device. The 48-bit identifier is commonly abbreviated BD_ADDR and is usually presented as a 12-digit hexadecimal value. The most significant half (24 bits) of the address is an organization unique identifier (OUI), which identifies the manufacturer. For example, 0x004C represents Apple, Inc.. 
 
+You can find a list of assigned company IDs on the Bluetooth website at https://www.bluetooth.org/en-us/specification/assigned-numbers/company-identifiers. The Assigned Numbers Support page includes instructions on how to request Company Identifiers, 16-bit UUIDs for members, and non-member UUIDs. 
 
-https://www.google.com/search?q=bluetooth+manufacturer+id+lookup&client=ubuntu-chr&hs=gd5&sca_esv=4773a9d9c9d3b242&sxsrf=ACQVn0_te92Bg-m1abC3ZQrIR76bAz7jyQ%3A1713026775833&ei=17YaZsiuMpOv0PEPh92WsAk&oq=Bluetooth+manufcturer&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUJsdWV0b290aCBtYW51ZmN0dXJlcioCCAAyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1IuZ4BUABY13BwAHgBkAEAmAGzAaABmg6qAQQxOS4yuAEByAEA-AEBmAIVoALhD8ICChAjGIAEGIoFGCfCAgQQIxgnwgILEAAYgAQYigUYkQLCAgoQABiABBiKBRhDwgIOEC4YgAQYsQMYxwEY0QPCAhEQLhiABBixAxiDARjHARjRA8ICCBAuGIAEGLEDwgILEAAYgAQYsQMYgwHCAg0QLhiABBiKBRhDGOUEwgINEAAYgAQYigUYQxixA8ICEBAAGIAEGIoFGEMYsQMYgwHCAggQABiABBixA8ICDhAAGIAEGIoFGJECGLEDwgIFEAAYgATCAgoQABiABBgUGIcCwgIIEC4YgAQY5QSYAwCSBwQxNS42oAf2owE&sclient=gws-wiz-serp
+You can also use the MAC address a Bluetooth device uses for communication to determine the manufacturer. For example, Mad Catz is assigned 00:15:9E:00:00:00 - 00:15:9E:FF:FF:FF. You can pull that via WMI and compare against a database of known ranges for vendors. 
+
+https://www.ourpcb.com/bluetooth-device-identification.html
+https://github.com/TakahikoKawasaki/nv-bluetooth/blob/master/README.md
+
