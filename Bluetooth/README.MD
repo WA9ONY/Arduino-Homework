@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   + https://en.wikipedia.org/wiki/Bluetooth_stack
   + https://en.wikipedia.org/wiki/Bluetooth_Low_Energy_beacon
   + https://en.wikipedia.org/wiki/Bluetooth_mesh_networkin
-  + https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group
+  + https://en.wikipedia.org/wiki/Bluetooth_Special_Inhttps://www.google.com/search?q=arduino+bluetooth+tutorial+pdf&oq=Bluetooth+Arduino+tutorial&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQoyOTQ5OWowajE1qAIIsAIB&client=ubuntu-chr&sourceid=chrome&ie=UTF-8terest_Group
 + Bluetooth 
   + https://www.bluetooth.com/
   + https://www.bluetooth.com/bluetooth-resources/?types=video&categories=training-videos
@@ -85,6 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   + https://www.youtube.com/results?search_query=Audriuino+UNO+R4+bluetooth 
 + SoarkFun
   + https://www.youtube.com/results?search_query=SparkFun+Bluetooth
-  
-
-
++ Arduino bluetooth tutorial pdf
+  + https://www.google.com/search?q=arduino+bluetooth+tutorial+pdf&oq=Bluetooth+Arduino+tutorial&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQoyOTQ5OWowajE1qAIIsAIB&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
+  + https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-05-bluetooth-module-tutorial/
+  + https://www.google.com/search?q=Arduino+UNO+R4+bluetooth+tutorial+pdf&client=ubuntu-chr&hs=Od5&sca_esv=4773a9d9c9d3b242&sxsrf=ACQVn09B5pFQbr2YYLqRfeVHRgJ_qU4z6A%3A1713026757146&ei=xbYaZp3CCJfv0PEPvIuXqAs&ved=0ahUKEwjduOb60b-FAxWXNzQIHbzFBbUQ4dUDCBE&oq=Arduino+UNO+R4+bluetooth+tutorial+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiJUFyZHVpbm8gVU5PIFI0IGJsdWV0b290aCB0dXRvcmlhbCBwZGYyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItXdQvgxYnmBwAXgBkAEAmAF9oAGNCKoBAzMuN7gBDMgBAPgBAZgCC6ACxgjCAgoQABhHGNYEGLADwgIEECMYJ8ICBhAAGAUYHsICCxAAGIAEGIoFGIYDwgIKECEYChigARjDBMICCBAhGKABGMMEmAMAiAYBkAYIkgcDNC43oAeCHA&sclient=gws-wiz-serp
