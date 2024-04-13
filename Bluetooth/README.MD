@@ -63,7 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## URLs
 
 + Arduino
-  + [Arduino](https://www.arduino.cc/reference/en/libraries/arduinoble/)
+  + [ArduinoBLE](https://www.arduino.cc/reference/en/libraries/arduinoble/)
+  + Arduino Uno R4 Wifi - Bluetooth Controlled LED [YouTube](https://youtu.be/cArOcLp2Ey8?si=7rUJLvhWBn6g9dyu)
 + Wikipedia
   + https://en.wikipedia.org/wiki/Bluetooth
   + https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
