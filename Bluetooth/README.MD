@@ -1,3 +1,4 @@
+![Banner Image](BluetoothBanner.png)
 # Bluetooth Integration with Arduino UNO
 
 Welcome to our GitHub repository designed to explore the capabilities and applications of Bluetooth technology in conjunction with the Arduino UNO microcontroller. This repository will provide sketches, libraries, and projects that demonstrate how to integrate Bluetooth modules like HC-05/HC-06 with Arduino UNO to build wireless projects.
