@@ -58,3 +58,30 @@ Feel free to fork this repository and contribute to improving the projects by su
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## URLs
+
++ Wikipedia
+  + https://en.wikipedia.org/wiki/Bluetooth
+  + https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+  + https://en.wikipedia.org/wiki/Bluetooth_stack
+  + https://en.wikipedia.org/wiki/Bluetooth_Low_Energy_beacon
+  + https://en.wikipedia.org/wiki/Bluetooth_mesh_networkin
+  + https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group
++ https://www.bluetooth.com/
++ Adafruit
+  + https://learn.adafruit.com/introduction-to-bluetooth-low-energy
+  + https://cdn-learn.adafruit.com/downloads/pdf/introduction-to-bluetooth-low-energy.pdf
+  + https://learn.adafruit.com/bluefruit-le-connect
+  + https://www.youtube.com/results?search_query=Adafruit+bluetooth
++ YouTube
+  + https://www.youtube.com/results?search_query=bluetooth
+  + https://www.youtube.com/@Ellisys
+    + https://www.youtube.com/playlist?list=PLYj4Cw17Aw7ypuXt7mDFWAyy6P661TD48
+  + https://www.youtube.com/results?search_query=Arduino+bluetooth
+  + https://www.youtube.com/results?search_query=Audriuino+UNO+R4+bluetooth 
++ SoarkFun
+  + https://www.youtube.com/results?search_query=SparkFun+Bluetooth
+  
+
+
