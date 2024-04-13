@@ -84,6 +84,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   + https://www.youtube.com/results?search_query=Arduino+bluetooth
   + https://www.youtube.com/results?search_query=Audriuino+UNO+R4+bluetooth 
 + SoarkFun
+  + https://learn.sparkfun.com/tutorials/bluetooth-basics/what-is-bluetooth
+  + https://learn.sparkfun.com/tutorials/bluetooth-basics/how-bluetooth-works
   + https://www.youtube.com/results?search_query=SparkFun+Bluetooth
 + Arduino bluetooth tutorial pdf
   + https://www.google.com/search?q=arduino+bluetooth+tutorial+pdf&oq=Bluetooth+Arduino+tutorial&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQoyOTQ5OWowajE1qAIIsAIB&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
@@ -91,5 +93,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   + https://www.google.com/search?q=Arduino+UNO+R4+bluetooth+tutorial+pdf&client=ubuntu-chr&hs=Od5&sca_esv=4773a9d9c9d3b242&sxsrf=ACQVn09B5pFQbr2YYLqRfeVHRgJ_qU4z6A%3A1713026757146&ei=xbYaZp3CCJfv0PEPvIuXqAs&ved=0ahUKEwjduOb60b-FAxWXNzQIHbzFBbUQ4dUDCBE&oq=Arduino+UNO+R4+bluetooth+tutorial+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiJUFyZHVpbm8gVU5PIFI0IGJsdWV0b290aCB0dXRvcmlhbCBwZGYyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRItXdQvgxYnmBwAXgBkAEAmAF9oAGNCKoBAzMuN7gBDMgBAPgBAZgCC6ACxgjCAgoQABhHGNYEGLADwgIEECMYJ8ICBhAAGAUYHsICCxAAGIAEGIoFGIYDwgIKECEYChigARjDBMICCBAhGKABGMMEmAMAiAYBkAYIkgcDNC43oAeCHA&sclient=gws-wiz-serp
 
 ## Bluetooth manufacturer id lookup
+
+The first three bytes of a Bluetooth device's 48-bit identifier identify the manufacturer, while the last three identify the device. The 48-bit identifier is commonly abbreviated BD_ADDR and is usually presented as a 12-digit hexadecimal value. The most significant half (24 bits) of the address is an organization unique identifier (OUI), which identifies the manufacturer. For example, 0x004C represents Apple, Inc.. 
+
 
 https://www.google.com/search?q=bluetooth+manufacturer+id+lookup&client=ubuntu-chr&hs=gd5&sca_esv=4773a9d9c9d3b242&sxsrf=ACQVn0_te92Bg-m1abC3ZQrIR76bAz7jyQ%3A1713026775833&ei=17YaZsiuMpOv0PEPh92WsAk&oq=Bluetooth+manufcturer&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUJsdWV0b290aCBtYW51ZmN0dXJlcioCCAAyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1IuZ4BUABY13BwAHgBkAEAmAGzAaABmg6qAQQxOS4yuAEByAEA-AEBmAIVoALhD8ICChAjGIAEGIoFGCfCAgQQIxgnwgILEAAYgAQYigUYkQLCAgoQABiABBiKBRhDwgIOEC4YgAQYsQMYxwEY0QPCAhEQLhiABBixAxiDARjHARjRA8ICCBAuGIAEGLEDwgILEAAYgAQYsQMYgwHCAg0QLhiABBiKBRhDGOUEwgINEAAYgAQYigUYQxixA8ICEBAAGIAEGIoFGEMYsQMYgwHCAggQABiABBixA8ICDhAAGIAEGIoFGJECGLEDwgIFEAAYgATCAgoQABiABBgUGIcCwgIIEC4YgAQY5QSYAwCSBwQxNS42oAf2owE&sclient=gws-wiz-serp
