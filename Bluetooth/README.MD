@@ -100,6 +100,7 @@ You can find a list of assigned company IDs on the Bluetooth website at https://
 
 You can also use the MAC address a Bluetooth device uses for communication to determine the manufacturer. For example, Mad Catz is assigned 00:15:9E:00:00:00 - 00:15:9E:FF:FF:FF. You can pull that via WMI and compare against a database of known ranges for vendors. 
 
-https://www.ourpcb.com/bluetooth-device-identification.html
-https://github.com/TakahikoKawasaki/nv-bluetooth/blob/master/README.md
++ https://bitbucket.org/bluetooth-SIG/public/src/main/assigned_numbers/company_identifiers/
++ https://www.ourpcb.com/bluetooth-device-identification.html
++ https://github.com/TakahikoKawasaki/nv-bluetooth/blob/master/README.md
 
