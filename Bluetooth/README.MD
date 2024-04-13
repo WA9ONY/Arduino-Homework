@@ -69,7 +69,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   + https://en.wikipedia.org/wiki/Bluetooth_Low_Energy_beacon
   + https://en.wikipedia.org/wiki/Bluetooth_mesh_networkin
   + https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group
-+ https://www.bluetooth.com/
++ Bluetooth 
+  + https://www.bluetooth.com/
+  + https://www.bluetooth.com/bluetooth-resources/?types=video&categories=training-videos
 + Adafruit
   + https://learn.adafruit.com/introduction-to-bluetooth-low-energy
   + https://cdn-learn.adafruit.com/downloads/pdf/introduction-to-bluetooth-low-energy.pdf
