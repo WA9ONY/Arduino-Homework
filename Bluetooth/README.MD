@@ -106,3 +106,4 @@ You can also use the MAC address a Bluetooth device uses for communication to de
 + https://www.ourpcb.com/bluetooth-device-identification.html
 + https://github.com/TakahikoKawasaki/nv-bluetooth/blob/master/README.md
 + https://www.bluetooth.com/wp-content/uploads/Files/Specification/HTML/Assigned_Numbers/out/en/Assigned_Numbers.pdf?v=1713029563972
++ https://gist.github.com/angorb
