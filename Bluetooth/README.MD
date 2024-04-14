@@ -110,3 +110,4 @@ You can also use the MAC address a Bluetooth device uses for communication to de
 + https://github.com/TakahikoKawasaki/nv-bluetooth/blob/master/README.md
 + https://www.bluetooth.com/wp-content/uploads/Files/Specification/HTML/Assigned_Numbers/out/en/Assigned_Numbers.pdf?v=1713029563972
 + https://gist.github.com/angorb
++ https://github.com/NordicSemiconductor/bluetooth-numbers-database/blob/master/v1/company_ids.json
