@@ -19,7 +19,27 @@
 
 BLEService ledService("19B10000-E8F2-537E-4F6C-D104768A1214"); // Bluetooth® Low Energy LED Service
 
+/*
+
+BLEByteCharacteristic:
+
+This is a class provided by Arduino's BLE library, which specifies that the characteristic will hold a single byte of data.
+switchCharacteristic:
+
+This is the name given to the instance of BLEByteCharacteristic. It represents a specific characteristic of a BLE service, here intended to function as a switch (likely to turn something on or off).
+"19B10001-E8F2-537E-4F6C-D104768A1214":
+https://fusionauth.io/dev-tools/uuid-generator
+
+This is the UUID (Universally Unique Identifier) of the characteristic. UUIDs ensure that services and characteristics can be uniquely identified in the BLE ecosystem. The provided UUID is a custom 128-bit UUID, as opposed to standardized 16-bit or 32-bit UUIDs, allowing for custom functionality outside the predefined BLE services and characteristics.
+BLERead | BLEWrite:
+
+These are flags set for the characteristic's properties. BLERead and BLEWrite are combined using the bitwise OR operator (|), meaning the characteristic can both be read and written to by a central device (like a smartphone or computer).
+BLERead allows a central device to read the characteristic's value.
+BLEWrite allows a central device to write new values to the characteristic.
+
+*/
 // Bluetooth® Low Energy LED Switch Characteristic - custom 128-bit UUID, read and writable by central
+
 BLEByteCharacteristic switchCharacteristic("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLEWrite);
 
 const int ledPin = LED_BUILTIN; // pin to use for the LED
