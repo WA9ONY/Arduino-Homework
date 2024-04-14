@@ -1,4 +1,4 @@
 # BLE Arduino Sketches
 
-## UUID generator
+## UUID Generator
 + https://fusionauth.io/dev-tools/uuid-generator
