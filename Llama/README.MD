@@ -5,7 +5,7 @@ Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](htt
 
 My goal is to use AI to generate code for microcontrollers projects and Paul McWhorter [tutorials](https://www.youtube.com/@paulmcwhorter/playlists) homeworks.  
 + [Llama conversations](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Conversations0
-+ [Llama sketches]()
++ [Llama sketches](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Sketches)
 
 Meta Llama 3 released on April 18, 2024
 + Meta Llama 3 web interface is free at [meta.ai](https://www.meta.ai/)
