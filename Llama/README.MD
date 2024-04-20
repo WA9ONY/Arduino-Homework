@@ -97,3 +97,44 @@ This sketch uses the blink() function to blink the LED at different frequencies.
 To determine when the blinking LED looks always on, you can adjust the frequency by changing the values of onTime and offTime in the blink() function calls. The LED will appear to be always on when the frequency is high enough that the human eye can't perceive the blinking.
 Note that the maximum frequency is limited by the Arduino's clock speed and the duration of the delay() function. At very high frequencies, the LED may not be able to turn on and off quickly enough to produce a visible blinking effect.
 Also, keep in mind that the built-in LED is usually connected to a digital pin, which can only provide a limited amount of current. If you're using an external LED, make sure to use a suitable resistor to limit the current and avoid damaging the LED or the Arduino board.
+
+## Please update the Arduino sketch to print the frequency to the serial monitor and vary the delay by one from 10 to 30.
+
+Here is the updated Arduino sketch:
+Arduino
+
+```cpp
+
+const int ledPin = LED_BUILTIN;  // the number of the LED pin
+
+void setup() {
+  pinMode(ledPin, OUTPUT);  // initialize the LED pin as an output
+  Serial.begin(9600);  // initialize serial communication at 9600 bps
+}
+
+void loop() {
+  for (int delayTime = 10; delayTime <= 30; delayTime++) {
+    // Blink at varying frequencies
+    blink(ledPin, delayTime, delayTime);
+
+    // Print the frequency to the serial monitor
+    Serial.print("Frequency: ");
+    Serial.print(1000.0 / (2 * delayTime));  // calculate and print the frequency
+    Serial.println(" Hz");
+  }
+}
+
+void blink(int pin, int onTime, int offTime) {
+  digitalWrite(pin, HIGH);  // turn the LED on
+  delay(onTime);           // wait for the specified time
+  digitalWrite(pin, LOW);   // turn the LED off
+  delay(offTime);           // wait for the specified time
+}
+
+```
+
+This sketch will:
++ Blink the LED at varying frequencies by changing the delay time from 10 to 30 milliseconds.
++ Print the frequency (in Hz) to the serial monitor for each delay time.
+Note that the frequency is calculated using the formula: 1000.0 / (2 * delayTime), where delayTime is the total time (in milliseconds) for one on-off cycle. The 2 * delayTime accounts for both the on and off periods.
+Make sure to open the serial monitor (at 9600 bps) to see the frequency output.
