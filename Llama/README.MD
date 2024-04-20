@@ -1,7 +1,7 @@
 ![Banner Image](meta_llama_creating_arduino_sketchesv2.png)
 # [Meta AI](https://en.wikipedia.org/wiki/Meta_AI) Llama
 
-Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with Meta [Llama](https://en.wikipedia.org/wiki/LLaMA) 3.
+Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](https://ai.meta.com/) [Llama](https://en.wikipedia.org/wiki/LLaMA) 3.
 + Meta Llama 3 is free at [meta.ai](https://www.meta.ai/)
 + Use your Facebook account to save your conversations history.
 + The above center image was created by Llama 3.
