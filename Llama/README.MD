@@ -44,7 +44,7 @@ This table compares the key features of the Arduino UNO R4 and R3 boards. The UN
 Here is an Arduino sketch to blink the built-in LED at different frequencies:
 Arduino
 
-## C++ Code
+### Arduino Sketch by Llama 3
 
 ```cpp
 
