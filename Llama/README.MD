@@ -141,3 +141,50 @@ This sketch will:
 Note that the frequency is calculated using the formula: 1000.0 / (2 * delayTime), where delayTime is the total time (in milliseconds) for one on-off cycle. The 2 * delayTime accounts for both the on and off periods.
 
 Make sure to open the serial monitor (at 9600 bps) to see the frequency output.
+
+## Please list the programming languages you can create code for.
+
+I can generate code in a wide range of programming languages, including but not limited to:
+Python
+Java
+JavaScript
+C++
+C#
+PHP
+Ruby
+Swift
+Go
+Rust
+TypeScript
+Scala
+Kotlin
+Visual Basic (VB)
+Perl
+MATLAB
+Arduino
+SQL
+HTML/CSS
+Bash/Shell Script
+
+Keep in mind that this list is not exhaustive, and I can likely generate code in other languages as well. If you have a specific language in mind, feel free to ask, and I'll do my best to assist you!
+
+Also, note that my ability to generate code is focused on helping with small to medium-sized tasks, and I may not be able to create complex programs or entire applications from scratch. However, I can certainly help with snippets, examples, and guidance to get you started or assist with specific coding tasks.
+
+## What micro controllers can you create code for?
+
+I can generate code for a variety of microcontrollers, including but not limited to:
++ Arduino (Uno, Nano, Mega, ESP32, ESP8266, etc.)
++ Raspberry Pi (RPi)
++ STM32 (STM32F4, STM32F7, etc.)
++ ESP32 and ESP8266 (Espressif Systems)
++ AVR (ATmega328P, ATmega2560, etc.)
++ PIC (PIC16F877A, PIC18F4550, etc.)
++ ARM Cortex-M (M0, M3, M4, etc.)
++ TI MSP430 (MSP430G2553, MSP430FR5739, etc.)
++ Microchip PIC32 (PIC32MX795F512L, etc.)
++ Zilog Z80 (Z80A, Z80B, etc.)
+
+Keep in mind that this list is not exhaustive, and I can likely generate code for other microcontrollers as well. If you have a specific microcontroller in mind, feel free to ask, and I'll do my best to assist you!
+
+Also, note that my ability to generate code is focused on helping with small to medium-sized tasks, and I may not be able to create complex programs or entire applications from scratch. However, I can certainly help with snippets, examples, and guidance to get you started or assist with specific coding tasks.
+
