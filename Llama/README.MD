@@ -4,6 +4,7 @@
 Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](https://ai.meta.com/) [Llama](https://en.wikipedia.org/wiki/LLaMA) 3.
 + Meta Llama 3 is free at [meta.ai](https://www.meta.ai/)
 + Use your [Facebook](https://www.facebook.com/) account to save your conversations history.
+  + [Meta AI at Facebook](https://www.facebook.com/AIatMeta/)
 + The above center image was created by Llama 3.
 + Below is an example conversation with Llama 3.
 + Llama 3 code is in the [Sketches directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Sketches).
