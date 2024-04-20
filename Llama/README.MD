@@ -334,13 +334,6 @@ Of course, I'd be happy to help! The Arduino Portenta H7 is a powerful and featu
 	+ Environmental monitoring
 	+ Smart home automation
 
-### Additional Resources
---------------------
-
-* **Arduino Documentation:** [(link unavailable)]((link unavailable))
-* **Arduino Community Forum:** [(link unavailable)]((link unavailable))
-* **Arduino GitHub Repository:** [(link unavailable)]((link unavailable))
-
 ### License
 -------
 
