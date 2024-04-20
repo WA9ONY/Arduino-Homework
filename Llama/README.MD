@@ -1,6 +1,13 @@
 ![Banner Image](meta_llama_creating_arduino_sketchesv2.png)
 # Meta AI Llama
 
+Coding Arduino sketches with Meta Llama 3.
++ Meta Llama 3 is free at [meta.ai](https://www.meta.ai/)
++ Use your Facebook account to save your conversations history.
++ Below is an example conversation with Llama 3
++ YouTube
+  + [Metas LLAMA 3 Just STUNNED Everyone! (Open Source GPT-4)](https://youtu.be/cEHFzvU-pzk?si=Ah1YHwqmk6W77THK)
+  + [LLaMA 3 Tested!! Yes, It’s REALLY That GREAT](https://youtu.be/0AaNT7XO41I?si=hwHiT2pSaT9tfC-g)
 
 ## What is Meta Llama 3?
 
