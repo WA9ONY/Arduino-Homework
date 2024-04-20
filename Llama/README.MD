@@ -3,7 +3,7 @@
 
 Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](https://ai.meta.com/) [Llama](https://en.wikipedia.org/wiki/LLaMA) 3.
 
-My goal is to use AI to generate code for microcontrollers projects and Paul lesson homeworks.  
+My goal is to use AI to generate code for microcontrollers projects and Paul McWhorter [tutorials]() homeworks.  
 
 + Meta Llama 3 web interface is free at [meta.ai](https://www.meta.ai/)
 + Use your [Facebook](https://www.facebook.com/) account to save your conversations history.
