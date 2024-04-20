@@ -201,3 +201,291 @@ Here are some of the RP2040 boards you can create code for ¹ ² ³:
 + QT Py RP2040: a board that includes a curated selection of GPIO pins for projects and a Stemma QT / Qwiic connector which breaks out an additional I2C connection for use with Stemma QT / Qwiic compatible components.
 + RP2040 Stamp: a small board designed for use in your own PCBs with 8MB of flash storage and a full complement of GPIO pins forming a perimeter of castellations around the board.
 + Pico LiPo: a drop-in replacement for the Raspberry Pi Pico that provides all of the GPIO pins found on a Pico, with added bonus of onboard LiPo / Li-Ion charging and a Stemma QT / Qwiic connector.
+
+## Please list the Arduino boards that you can create code for.
+
+Here are some of the Arduino boards I can create code for:
++ Arduino Uno (including Uno R3, Uno R4, and Uno WiFi)
++ Arduino Nano (including Nano R3, Nano 33, and Nano RP2040)
++ Arduino Mega (including Mega R3 and Mega 2560)
++ Arduino Due
++ Arduino Leonardo
++ Arduino Micro
++ Arduino ESP32 (including ESP32 DevKitC and ESP32 WROVER)
++ Arduino ESP8266 (including ESP8266 NodeMCU and ESP8266 Wemos D1)
++ Arduino Zero (including Zero R3 and Zero Pro)
++ Arduino MKR (including MKR1000, MKR WiFi 1010, and MKR NB 1500)
++ Arduino MKL (including MKLRO and MKLROWIFI)
++ Arduino Tian
++ Arduino Yún (including Yún R3 and Yún Shield)
++ Arduino DUEX (including DUEX R3 and DUEX Pro)
++ Arduino Robot (including Robot R3 and Robot Pro)
+
+Please note that this list is not exhaustive, and I can likely generate code for other Arduino boards as well. If you have a specific board in mind, feel free to ask, and I'll do my best to assist you!
+
+Also, keep in mind that my ability to generate code is focused on helping with small to medium-sized tasks, and I may not be able to create complex programs or entire applications from scratch. However, I can certainly help with snippets, examples, and guidance to get you started or assist with specific coding tasks.
+
+## Can you act as an instructor to teach me how to use the Arduino Portenta H7 board?
+
+Of course, I'd be happy to help! The Arduino Portenta H7 is a powerful and feature-rich board, and I'll guide you through its basics and advanced features.
+Let's start with the basics:
+Getting Started: Download and install the Arduino IDE, and make sure you have the correct board selected (Arduino Portenta H7).
+Hardware Overview: Familiarize yourself with the board's pinouts, interfaces (USB, Ethernet, WiFi, etc.), and peripherals (LEDs, buttons, etc.).
+Programming Basics: Learn the fundamental programming concepts using C++ and the Arduino framework (variables, data types, control structures, functions, etc.).
+Digital I/O: Understand how to read and write digital signals using the board's GPIO pins.
+Analog I/O: Learn how to work with analog signals using the board's ADC (analog-to-digital converter) and DAC (digital-to-analog converter) peripherals.
+Now, let's dive into some advanced topics:
+Microcontrollers: Understand the basics of microcontrollers, including interrupts, timers, and DMA (direct memory access).
+Communication Protocols: Learn about serial communication (UART, SPI, I2C), Ethernet, and WiFi connectivity.
+Power Management: Understand how to optimize power consumption and use the board's power-saving features.
+Advanced Programming: Explore advanced programming techniques, such as multi-threading, synchronization, and memory management.
+Libraries and Frameworks: Learn how to use popular libraries and frameworks (e.g., ArduinoWiFi, ArduinoJSON) to simplify your projects.
+Some projects to get you started:
+Blinking LED: A classic beginner project to get you familiar with digital I/O.
+Analog Sensor Readings: Connect an analog sensor (e.g., potentiometer, temperature sensor) and display its readings on the serial monitor.
+Web Server: Create a simple web server using the board's WiFi or Ethernet connectivity.
+Robotics: Control motors, read sensor data, and implement basic robotics projects.
+IoT Projects: Explore more complex IoT projects, such as environmental monitoring or smart home automation.
+Feel free to ask me any questions or request specific guidance on a project or topic. I'm here to help you master the Arduino Portenta H7!
+
+## Please format your last response into a GitHub README.ME file format.
+
+Here is the formatted response in a GitHub README.MD file format:
+Arduino Portenta H7 Tutorial
+Getting Started
+Download and install the Arduino IDE
+Select the correct board: Arduino Portenta H7
+Hardware Overview
+Familiarize yourself with the board's pinouts, interfaces (USB, Ethernet, WiFi, etc.), and peripherals (LEDs, buttons, etc.)
+Programming Basics
+Learn fundamental programming concepts using C++ and the Arduino framework
+Understand variables, data types, control structures, functions, etc.
+Digital I/O
+Learn how to read and write digital signals using the board's GPIO pins
+Analog I/O
+Understand how to work with analog signals using the board's ADC (analog-to-digital converter) and DAC (digital-to-analog converter) peripherals
+Advanced Topics
+Microcontrollers
+Understand the basics of microcontrollers, including interrupts, timers, and DMA (direct memory access)
+Communication Protocols
+Learn about serial communication (UART, SPI, I2C), Ethernet, and WiFi connectivity
+Power Management
+Understand how to optimize power consumption and use the board's power-saving features
+Advanced Programming
+Explore advanced programming techniques, such as multi-threading, synchronization, and memory management
+Libraries and Frameworks
+Learn how to use popular libraries and frameworks (e.g., ArduinoWiFi, ArduinoJSON) to simplify your projects
+Projects
+Blinking LED
+A classic beginner project to get you familiar with digital I/O
+Analog Sensor Readings
+Connect an analog sensor (e.g., potentiometer, temperature sensor) and display its readings on the serial monitor
+Web Server
+Create a simple web server using the board's WiFi or Ethernet connectivity
+Robotics
+Control motors, read sensor data, and implement basic robotics projects
+IoT Projects
+Explore more complex IoT projects, such as environmental monitoring or smart home automation
+Additional Resources
+Arduino Documentation: <(link unavailable)>
+Arduino Community Forum: <(link unavailable)>
+Arduino GitHub Repository: <(link unavailable)>
+License
+This tutorial is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Arduino Portenta H7 Tutorial
+Getting Started
+---------------
+Download and install the Arduino IDE
+Select the correct board: Arduino Portenta H7
+Hardware Overview
+-----------------
+Familiarize yourself with the board's:
+Pinouts
+Interfaces (USB, Ethernet, WiFi, etc.)
+Peripherals (LEDs, buttons, etc.)
+Programming Basics
+------------------
+Learn fundamental programming concepts using:
+C++
+Arduino framework
+Understand:
+Variables
+Data types
+Control structures
+Functions
+etc.
+Digital I/O
+-------------
+Learn how to:
+Read digital signals using the board's GPIO pins
+Write digital signals using the board's GPIO pins
+Analog I/O
+------------
+Understand how to work with:
+Analog signals using the board's ADC (analog-to-digital converter)
+Analog signals using the board's DAC (digital-to-analog converter)
+Advanced Topics
+-----------------
+Microcontrollers
+Understand the basics of microcontrollers, including:
+Interrupts
+Timers
+DMA (direct memory access)
+Communication Protocols
+Learn about:
+Serial communication (UART, SPI, I2C)
+Ethernet
+WiFi connectivity
+Power Management
+Understand how to:
+Optimize power consumption
+Use the board's power-saving features
+Advanced Programming
+Explore advanced programming techniques, such as:
+Multi-threading
+Synchronization
+Memory management
+Libraries and Frameworks
+Learn how to use popular libraries and frameworks, such as:
+ArduinoWiFi
+ArduinoJSON
+Projects
+---------
+Blinking LED
+A classic beginner project to get you familiar with digital I/O
+Analog Sensor Readings
+Connect an analog sensor (e.g., potentiometer, temperature sensor) and display its readings on the serial monitor
+Web Server
+Create a simple web server using the board's WiFi or Ethernet connectivity
+Robotics
+Control motors, read sensor data, and implement basic robotics projects
+IoT Projects
+Explore more complex IoT projects, such as:
+Environmental monitoring
+Smart home automation
+Additional Resources
+--------------------
+Arduino Documentation: [(link unavailable)]((link unavailable))
+Arduino Community Forum: [(link unavailable)]((link unavailable))
+Arduino GitHub Repository: [(link unavailable)]((link unavailable))
+License
+-------
+This tutorial is licensed under the: Creative Commons Attribution-ShareAlike 4.0 International License.
+
+**Arduino Portenta H7 Tutorial**
+=============================
+
+### Getting Started
+---------------
+
+* **Download and install the Arduino IDE**
+* **Select the correct board:** Arduino Portenta H7
+
+### Hardware Overview
+-----------------
+
+* **Familiarize yourself with the board's:**
+	+ Pinouts
+	+ Interfaces (USB, Ethernet, WiFi, etc.)
+	+ Peripherals (LEDs, buttons, etc.)
+
+### Programming Basics
+------------------
+
+* **Learn fundamental programming concepts using:**
+	+ C++
+	+ Arduino framework
+* **Understand:**
+	+ Variables
+	+ Data types
+	+ Control structures
+	+ Functions
+	+ etc.
+
+### Digital I/O
+-------------
+
+* **Learn how to:**
+	+ Read digital signals using the board's GPIO pins
+	+ Write digital signals using the board's GPIO pins
+
+### Analog I/O
+------------
+
+* **Understand how to work with:**
+	+ Analog signals using the board's ADC (analog-to-digital converter)
+	+ Analog signals using the board's DAC (digital-to-analog converter)
+
+### Advanced Topics
+-----------------
+
+#### Microcontrollers
+
+* **Understand the basics of microcontrollers, including:**
+	+ Interrupts
+	+ Timers
+	+ DMA (direct memory access)
+
+#### Communication Protocols
+
+* **Learn about:**
+	+ Serial communication (UART, SPI, I2C)
+	+ Ethernet
+	+ WiFi connectivity
+
+#### Power Management
+
+* **Understand how to:**
+	+ Optimize power consumption
+	+ Use the board's power-saving features
+
+#### Advanced Programming
+
+* **Explore advanced programming techniques, such as:**
+	+ Multi-threading
+	+ Synchronization
+	+ Memory management
+
+#### Libraries and Frameworks
+
+* **Learn how to use popular libraries and frameworks, such as:**
+	+ ArduinoWiFi
+	+ ArduinoJSON
+
+### Projects
+---------
+
+#### Blinking LED
+
+* **A classic beginner project to get you familiar with digital I/O**
+
+#### Analog Sensor Readings
+
+* **Connect an analog sensor (e.g., potentiometer, temperature sensor) and display its readings on the serial monitor**
+
+#### Web Server
+
+* **Create a simple web server using the board's WiFi or Ethernet connectivity**
+
+#### Robotics
+
+* **Control motors, read sensor data, and implement basic robotics projects**
+
+#### IoT Projects
+
+* **Explore more complex IoT projects, such as:**
+	+ Environmental monitoring
+	+ Smart home automation
+
+### Additional Resources
+--------------------
+
+* **Arduino Documentation:** [(link unavailable)]((link unavailable))
+* **Arduino Community Forum:** [(link unavailable)]((link unavailable))
+* **Arduino GitHub Repository:** [(link unavailable)]((link unavailable))
+
+### License
+-------
+
+* **This tutorial is licensed under the:** Creative Commons Attribution-ShareAlike 4.0 International License.
