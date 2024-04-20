@@ -145,26 +145,26 @@ Make sure to open the serial monitor (at 9600 bps) to see the frequency output.
 ## Please list the programming languages you can create code for.
 
 I can generate code in a wide range of programming languages, including but not limited to:
-Python
-Java
-JavaScript
-C++
-C#
-PHP
-Ruby
-Swift
-Go
-Rust
-TypeScript
-Scala
-Kotlin
-Visual Basic (VB)
-Perl
-MATLAB
-Arduino
-SQL
-HTML/CSS
-Bash/Shell Script
++ Python
++ Java
++ JavaScript
++ C++
++ C#
++ PHP
++ Ruby
++ Swift
++ Go
++ Rust
++ TypeScript
++ Scala
++ Kotlin
++ Visual Basic (VB)
++ Perl
++ MATLAB
++ Arduino
++ SQL
++ HTML/CSS
++ Bash/Shell Script
 
 Keep in mind that this list is not exhaustive, and I can likely generate code in other languages as well. If you have a specific language in mind, feel free to ask, and I'll do my best to assist you!
 
@@ -188,3 +188,13 @@ Keep in mind that this list is not exhaustive, and I can likely generate code fo
 
 Also, note that my ability to generate code is focused on helping with small to medium-sized tasks, and I may not be able to create complex programs or entire applications from scratch. However, I can certainly help with snippets, examples, and guidance to get you started or assist with specific coding tasks.
 
+## Please list the different RP2040 boards that you can create code for.
+
+Here are some of the RP2040 boards you can create code for ¹ ² ³:
++ Raspberry Pi Pico: a low-cost, high-performance microcontroller board with flexible digital interfaces.
++ Thing Plus: a board that includes an SD card slot, 16 MB (128 Mbit) flash memory, a JST single cell battery connector, an addressable RGB LED, JTAG PTH pins, four (4-40 screw) mounting holes and a Qwiic connector.
++ Pro Micro RP2040: a board that utilizes the Pro Micro footprint and includes a WS2812B addressable LED, boot button, reset button, Qwiic connector, USB-C and castellated pads.
++ Feather RP2040: a board with a curated selection of pins that can take advantage of an expansive range of add-ons called “FeatherWings.”
++ QT Py RP2040: a board that includes a curated selection of GPIO pins for projects and a Stemma QT / Qwiic connector which breaks out an additional I2C connection for use with Stemma QT / Qwiic compatible components.
++ RP2040 Stamp: a small board designed for use in your own PCBs with 8MB of flash storage and a full complement of GPIO pins forming a perimeter of castellations around the board.
++ Pico LiPo: a drop-in replacement for the Raspberry Pi Pico that provides all of the GPIO pins found on a Pico, with added bonus of onboard LiPo / Li-Ion charging and a Stemma QT / Qwiic connector.
