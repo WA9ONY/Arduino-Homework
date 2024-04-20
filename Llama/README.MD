@@ -137,5 +137,7 @@ void blink(int pin, int onTime, int offTime) {
 This sketch will:
 + Blink the LED at varying frequencies by changing the delay time from 10 to 30 milliseconds.
 + Print the frequency (in Hz) to the serial monitor for each delay time.
+
 Note that the frequency is calculated using the formula: 1000.0 / (2 * delayTime), where delayTime is the total time (in milliseconds) for one on-off cycle. The 2 * delayTime accounts for both the on and off periods.
+
 Make sure to open the serial monitor (at 9600 bps) to see the frequency output.
