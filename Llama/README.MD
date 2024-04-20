@@ -1,3 +1,4 @@
+![Banner Image](meta_llama_creating_arduino_sketchesv2.png)
 # Meta AI Llama
 
 
