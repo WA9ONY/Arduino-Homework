@@ -1,5 +1,5 @@
 ![Banner Image](meta_llama_creating_arduino_sketchesv2.png)
-# Meta AI Llama
+# [Meta AI](https://en.wikipedia.org/wiki/Meta_AI) Llama
 
 Coding Arduino sketches with Meta Llama 3.
 + Meta Llama 3 is free at [meta.ai](https://www.meta.ai/)
