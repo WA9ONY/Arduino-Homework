@@ -12,6 +12,8 @@ Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](htt
   + [Metas LLAMA 3 Just STUNNED Everyone! (Open Source GPT-4)](https://youtu.be/cEHFzvU-pzk?si=Ah1YHwqmk6W77THK)
   + [LLaMA 3 Tested!! Yes, It’s REALLY That GREAT](https://youtu.be/0AaNT7XO41I?si=hwHiT2pSaT9tfC-g)
 
+---
+
 # Conversations with Llama 3 on April 20, 2024.
 ## What is Meta Llama 3?
 
