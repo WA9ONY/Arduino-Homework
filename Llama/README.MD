@@ -12,6 +12,7 @@ Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](htt
   + [Metas LLAMA 3 Just STUNNED Everyone! (Open Source GPT-4)](https://youtu.be/cEHFzvU-pzk?si=Ah1YHwqmk6W77THK)
   + [LLaMA 3 Tested!! Yes, It’s REALLY That GREAT](https://youtu.be/0AaNT7XO41I?si=hwHiT2pSaT9tfC-g)
 
+# Conversations with Llama 3 on April 20, 2024.
 ## What is Meta Llama 3?
 
 Meta Llama 3 is an open-source large language model developed by [Meta](https://ai.meta.com/blog/meta-llama-3/). It is available on Cloudflare Workers AI and offers leading performance on a wide range of industry benchmarks, with a context window of 8k and a vocabulary of 128k tokens. Llama 3 has been fine-tuned with over 10 million human-annotated examples and is trained on a dataset of over 15 trillion tokens.
