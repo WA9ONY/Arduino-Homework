@@ -6,7 +6,7 @@ Coding Arduino sketches with Meta Llama 3.
 + Use your Facebook account to save your conversations history.
 + The above center image was created by Llama 3.
 + Below is an example conversation with Llama 3.
-+ Llama 3 code is in the Sketches directory.
++ Llama 3 code is in the [Sketches directory](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Sketches).
 + YouTube
   + [Metas LLAMA 3 Just STUNNED Everyone! (Open Source GPT-4)](https://youtu.be/cEHFzvU-pzk?si=Ah1YHwqmk6W77THK)
   + [LLaMA 3 Tested!! Yes, It’s REALLY That GREAT](https://youtu.be/0AaNT7XO41I?si=hwHiT2pSaT9tfC-g)
