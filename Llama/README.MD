@@ -4,7 +4,7 @@
 Coding [Arduino](https://en.wikipedia.org/wiki/Arduino) sketches with [Meta](https://ai.meta.com/) [Llama](https://en.wikipedia.org/wiki/LLaMA) 3.
 
 My goal is to use AI to generate code for microcontrollers projects and Paul McWhorter [tutorials](https://www.youtube.com/@paulmcwhorter/playlists) homeworks.  
-+ [Llama conversations](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Conversations0
++ [Llama conversations](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Conversations)
 + [Llama sketches](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Sketches)
 
 Meta Llama 3 released on April 18, 2024
@@ -20,7 +20,7 @@ Meta Llama 3 released on April 18, 2024
 
 ---
 
-# Conversations with Llama 3 on April 20, 2024.
+# Conversations with Llama 3 on April 20, 2024 [PDF](https://github.com/WA9ONY/Arduino-Homework/tree/main/Llama/Conversations).
 ## What is Meta Llama 3?
 
 Meta Llama 3 is an open-source large language model developed by [Meta](https://ai.meta.com/blog/meta-llama-3/). It is available on Cloudflare Workers AI and offers leading performance on a wide range of industry benchmarks, with a context window of 8k and a vocabulary of 128k tokens. Llama 3 has been fine-tuned with over 10 million human-annotated examples and is trained on a dataset of over 15 trillion tokens.
