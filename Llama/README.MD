@@ -24,7 +24,7 @@ The Llama 3 model was released on April 18, 2024, and is available for use in En
 
 Here's a table comparing the Arduino UNO R4 with the Arduino UNO R3 ¹:
 
-# Arduino UNO R4 vs R3 Comparison
+## Arduino UNO R4 vs R3 Comparison
 
 | **Feature** | **Arduino UNO R4** | **Arduino UNO R3** |
 | --- | --- | --- |
@@ -38,3 +38,52 @@ Here's a table comparing the Arduino UNO R4 with the Arduino UNO R3 ¹:
 Summary
 
 This table compares the key features of the Arduino UNO R4 and R3 boards. The UNO R4 offers significant upgrades, including a faster microcontroller, more memory, and additional communication interfaces.
+
+## Please create an Arduino sketch to blink the built in LED at different frequencies to determine when the blinking LED looks allways on.
+
+Here is an Arduino sketch to blink the built-in LED at different frequencies:
+Arduino
+
+## C++ Code
+
+```cpp
+
+const int ledPin = LED_BUILTIN;  // the number of the LED pin
+
+void setup() {
+  pinMode(ledPin, OUTPUT);  // initialize the LED pin as an output
+}
+
+void loop() {
+  // Blink at 1 Hz (1 second on, 1 second off)
+  blink(ledPin, 1000, 1000);
+
+  // Blink at 5 Hz (200ms on, 200ms off)
+  blink(ledPin, 200, 200);
+
+  // Blink at 10 Hz (100ms on, 100ms off)
+  blink(ledPin, 100, 100);
+
+  // Blink at 20 Hz (50ms on, 50ms off)
+  blink(ledPin, 50, 50);
+
+  // Blink at 50 Hz (20ms on, 20ms off)
+  blink(ledPin, 20, 20);
+
+  // Blink at 100 Hz (10ms on, 10ms off)
+  blink(ledPin, 10, 10);
+}
+
+void blink(int pin, int onTime, int offTime) {
+  digitalWrite(pin, HIGH);  // turn the LED on
+  delay(onTime);           // wait for the specified time
+  digitalWrite(pin, LOW);   // turn the LED off
+  delay(offTime);           // wait for the specified time
+}
+
+```
+
+This sketch uses the blink() function to blink the LED at different frequencies. The frequency is determined by the onTime and offTime parameters, which specify the duration of the on and off periods in milliseconds.
+To determine when the blinking LED looks always on, you can adjust the frequency by changing the values of onTime and offTime in the blink() function calls. The LED will appear to be always on when the frequency is high enough that the human eye can't perceive the blinking.
+Note that the maximum frequency is limited by the Arduino's clock speed and the duration of the delay() function. At very high frequencies, the LED may not be able to turn on and off quickly enough to produce a visible blinking effect.
+Also, keep in mind that the built-in LED is usually connected to a digital pin, which can only provide a limited amount of current. If you're using an external LED, make sure to use a suitable resistor to limit the current and avoid damaging the LED or the Arduino board.
