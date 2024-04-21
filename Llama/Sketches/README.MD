@@ -1,1 +1,1 @@
-# Directory Meta AI Llama 3 Arduino Sketche
+# Directory for Meta AI Llama 3 Arduino Sketche
