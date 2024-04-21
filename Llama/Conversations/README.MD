@@ -1,3 +1,3 @@
-# Llama Conversations
+# Llama 3 Conversations
 
-Directory of PDFs of conversations with Meta AI Llama 3.
+Directory for conversations (PDFs)with Meta AI Llama 3.
