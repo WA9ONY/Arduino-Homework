@@ -642,4 +642,19 @@ Homework
 
  the ISR to call when the interrupt occurs; this function must take no parameters and return nothing. This function is sometimes referred to as an interrupt service routine. mode : defines when the interrupt should be triggered.
 
- + [attachInterrupt()](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
++ [attachInterrupt()](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
++ [ISR notes](https://gammon.com.au/interrupts)
+
++ ISR function
+  + No parameters
+  + No return values
+  + Short and fast
+  + only one ISR can run at a time, all other interrupts are blocked.
+    + delay() won’t work
+      + delay() uses interrupts to work
+    + value returned by millis() will not increment during ISR operation
+      + millis() relies on interrupts to count,
+    + Serial data received while in the function may be lost.
+  + declare variables as volatile any variables that you modify
+  + only one ISR can run at a time
+  + delayMicroseconds() does not use any counter, so it will work as normal
