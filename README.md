@@ -637,3 +637,9 @@ Homework
 
 Homework
 
+
+# ISR: 
+
+ the ISR to call when the interrupt occurs; this function must take no parameters and return nothing. This function is sometimes referred to as an interrupt service routine. mode : defines when the interrupt should be triggered.
+
+ + [attachInterrupt()](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
